@@ -340,8 +340,6 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
 #EXTINF:-1 tvg-name="哒啵赛事" ,哒啵赛事 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225749/index.m3u8
-#EXTINF:-1 tvg-name="纯享4K" ,纯享4K 4K超高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
 
 #EXTINF:-1 tvg-name="求索记录" ,求索记录 高清
 http://39.134.66.10/PLTV/88888888/224/3221225713/index.m3u8
@@ -365,13 +363,6 @@ http://39.134.66.10/PLTV/88888888/224/3221225870/index.m3u8
 http://39.134.66.10/PLTV/88888888/224/3221225868/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江公共农业" ,黑龙江公共农业 高清
 http://39.134.66.10/PLTV/88888888/224/3221225874/index.m3u8
-
-#EXTINF:-1 tvg-name="BesTV记录" ,BesTV 记录 4K超高清
-http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
-#EXTINF:-1 tvg-name="BesTV电影" ,BesTV 电影 高清
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" ,CCTV-4K 4K超高清
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 #EXTINF:-1 tvg-name="旅游卫视" ,海南卫视 高清
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227000/index.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" ,海峡卫视 高清
@@ -1150,11 +1141,8 @@ https://lnc-fox-soul-scte.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="FOXSports.us" tvg-name="FOX Sports Australia" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X491SzR.gif" group-title="Sports",FOX Sports Australia (720p)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-
-
 #EXTINF:-1,美国切达新闻·Cheddar News (720p)
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?appVersion=5.2.7&deviceDNT=web&deviceId=web24163643069&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=1&serverSideAds=false&sid=web24157571521
-
 #EXTINF:-1,CNN (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1,CNN International (720p)
@@ -1200,7 +1188,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1,天主教EWTN katholisches TV [Not 24/7]
 https://cdn3.wowza.com/1/NWFLbEVOVjNsQWhP/YnpVbld5/hls/live/playlist.m3u8
-#EXTINF:-1,------------------低俗视频---------------
+#EXTINF:-1,---------------------------------
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AFVEspanol.us" tvg-name="AFV Español" tvg-country="US" tvg-language="Spanish" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3" group-title="Comedy",AFV Español (720p)
@@ -1272,7 +1260,7 @@ https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 #EXTINF:-1,Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 
-#EXTINF:-1,------------------大洋洲---------------
+#EXTINF:-1,--------------------------------
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="News",澳大利亚ABC News (720p)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
