@@ -35,7 +35,11 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" ,CCTV-17 农业农村 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225909/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K
+http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CNC中文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CNC英文
 #EXTINF:-1 tvg-name="CCTV4欧洲" ,CCTV-4 中文国际欧洲 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV4美洲" ,CCTV-4 中文国际美洲 高清
