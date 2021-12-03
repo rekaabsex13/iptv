@@ -447,6 +447,8 @@ https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptv
 https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,冰岛N4 (720p)
 https://live.tv.c.is/n4/index.m3u8
+#EXTINF:-1 ,半岛电视台英语
+https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #EXTINF:-1 ,法国-France24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 ,法国Pluto TV Animaux
@@ -509,6 +511,8 @@ https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 #EXTINF:-1,欧洲联合法语TVM3 (1080p)
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:-1,瑞典新闻
+https://lbs-aws-hls.tv4play.se/dailive/bbr-event1-p/master704.m3u8
 #EXTINF:-1 ,德国Deutsches Musik Fernsehen
 http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,瑞士法语Canal Alpha Jura (1080p)
@@ -532,10 +536,12 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 ,泰国ASTV News 1 (1080p)
 http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 ,日本NHK汉语字幕
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",AT-X日本动画片
+https://sub2.neetball.net/live/neet.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,日本基督教·CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:-1 ,韩国-Arirang
+#EXTINF:-1 ,韩国英语Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 ,朝鲜中央频道
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
@@ -626,7 +632,7 @@ https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5
 #EXTINF:-1 group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg",Newsmax (1080p)
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_cc.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FiTdDp1.png",24 Hour Free Movies (720p)
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 group-title="Outdoor" tvg-logo="https://i.imgur.com/l2O0fY1.png",30A Darcizzle Offshore (720p)
