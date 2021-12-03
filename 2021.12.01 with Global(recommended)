@@ -7,10 +7,6 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225643/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 ,CCTV-4 中文国际 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
-#EXTINF:-1 ,CCTV-4 中文国际欧洲 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CCTV-4 中文国际美洲 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,CCTV-5 体育 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 ,CCTV-5+ 体育赛事 高清
@@ -39,36 +35,6 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
 http://112.15.230.58/PLTV/88888888/224/3221232608/index.m3u8
 #EXTINF:-1 ,CCTV-17 农业农村 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225909/index.m3u8
-#EXTINF:-1 ,CCTV-世界地理 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CCTV-第一剧场 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CCTV-怀旧剧场 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CCTV-风云剧场 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CCTV-风云足球 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CCTV-风云音乐 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CCTV-兵器科技 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CCTV-央视台球 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CCTV-女性时尚 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CCTV-电视指南 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CCTV-央视文化精品 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,CCTV-高尔夫网球 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,全纪实 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226221/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,动漫秀场 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226215/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,都市剧场 高清
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226243/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,------------------卫视---------------
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 ,凤凰资讯 高清
@@ -529,14 +495,20 @@ https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 ,荷兰Den Haag TV
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,荷兰波斯语Bazme Asheghan (720p)
-https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist.m3u8
 #EXTINF:-1 ,荷兰Ede TV (480p)
 http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/DsD7Tsu.png",荷兰RTV Drenthe (1080p)
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 #EXTINF:-1 ,荷兰GO-RTV (720p)
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 ,荷兰Groningen1 (1080p)
-http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1,Dutch Omroep West (1080p)
+https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+#EXTINF:-1,荷兰Q-Music (1080p)
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
+#EXTINF:-1,比利时荷兰语City Music TV (720p)
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1,欧洲联合法语TVM3 (1080p)
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 ,德国Deutsches Musik Fernsehen
 http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,瑞士法语Canal Alpha Jura (1080p)
@@ -583,12 +555,8 @@ http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 http://167.99.65.12:1935/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 ,蒙古国lMNB
 http://103.14.38.107:1935/live/mnb.stream/master.m3u8
-#EXTINF:-1 ,香港C+
-http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 ,新加坡CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,香港无线新闻 1080P
-https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 ,葡萄牙语澳門Macau
 http://61.244.22.5/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 ,澳視卫星
@@ -599,11 +567,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:i
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,CNBC Indonesia 1
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,ABNsat
+#EXTINF:-1 ,马来西亚ABNsat  Christian 
 http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,HAWAS TV (1280×720)
+#EXTINF:-1 ,Dubai  HAWAS TV (1280×720)
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,AJYAL TV (1920×1080)
+#EXTINF:-1 ,تقارير صوت AJYAL TV (1920×1080)
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,EG | Al Horreya
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:iptvcat.com
@@ -971,6 +939,12 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
 #EXTINF:-1 ,墨西哥Uno TV (720p)
 https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
+#EXTINF:-1,巴西葡萄牙语1001 Noites (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1,巴西葡萄牙语Jovem Pan News (1080p)
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1,巴西Rede Minas (1080p)
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
 #EXTINF:-1 ,Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1 group-title="News",澳大利亚ABC News (720p)
