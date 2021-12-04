@@ -101,10 +101,6 @@ http://stream.wfcmw.cn/2/sd/live.m3u8?_upt=eb90b9cd1577693284
 http://stream.wfcmw.cn/3/sd/live.m3u8?_upt=f89392db1577693316
 #EXTINF:-1 group-title="地方台",潍坊 | 4
 http://stream.wfcmw.cn/4/sd/live.m3u8?_upt=0e8b54001577693372
-#EXTINF:-1 group-title="地方台",潍坊 | 安丘新闻
-http://jsylivealone302.iqilu.com/live/anqiu_tv01/index.m3u8
-#EXTINF:-1 group-title="地方台",潍坊 | 安丘民生
-http://jsylivealone302.iqilu.com/live/anqiu_tv02/index.m3u8
 #EXTINF:-1 group-title="地方台",潍坊 | 寒亭新闻
 http://jsylivealone302.iqilu.com/live/hanting_tv01/index.m3u8
 #EXTINF:-1 group-title="地方台",烟台 | 蓬莱新闻
@@ -271,8 +267,6 @@ http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 ,俄罗斯莫尔德维亚共和国НТМ (Мордовия)
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 ,俄罗斯乌德穆尔特共和国Удмуртия
-http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
 #EXTINF:-1 ,俄罗斯时尚频道
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 ,俄罗斯莫斯科奥丁佐沃Одинцово ТВ
@@ -349,8 +343,6 @@ http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 #EXTINF:-1 ,哈萨克斯坦电视频道Новое телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1 ,蒙古国Монголын Мэдээ
-http://103.14.38.107:1935/live/mn2.stream/chunklist.m3u8
 #EXTINF:-1 ,吉尔吉斯斯坦儿童КТРК Баластан
 http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
 #EXTINF:-1 ,乌克兰敖德萨Первый городской (Одесса)奥德萨
@@ -585,132 +577,368 @@ http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checked
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby:iptvcat.com
 #EXTINF:-1 ,PALESTINIAN TV (1920×1080)
 http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/aqxCgyG.jpg",ABC 10 Sacramento CA (KXTV) (1080p)
-https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/eapvJpP.jpg",ABC 13 Grand Rapids MI (WZZM) (1080p)
-https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/QbkW7zY.png",ABC 13 Las Vegas NV (KTNV) (720p)
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/P5PtUcR.jpg",ABC 13 Norfolk VA (WVEC) (1080p)
-https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png",ABC 15 Phoenix AZ (KNXV-TV) (720p)
-https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/1s3Euh5.jpg",ABC 16 Wilkes Barre PA (WNEP) (1080p)
-https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/HkY10xX.jpg",ABC 2 Atlanta GA (WSB-TV) (720p)
-https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png",ABC 2 Baton Rouge LA (WBRZ) (720p)
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/nLBEhIx.jpg",ABC 24 Austin TX (KVUE) (1080p)
-https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/ukf1WZ0.jpg",ABC 24 Memphis TN (WATN-TV) (1080p)
-https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/svfSv3O.jpg",ABC 3 Corpus Christi TX (KIII) (1080p)
-https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/8vXRrRe.jpg",ABC 4 Seattle WA (KOMO-TV) (720p)
-https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1",ABC 5 Cleveland OH (WEWS-TV) (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1",ABC 5 Cleveland OH (WEWS-TV) (1080p)
-https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/1jA3nKg.jpg",ABC 5 Des Moines IA (WOI) (1080p)
-https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/JExsI09.png",ABC 7 Denver CO (KMGH) (720p)
-https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/8sQ5mfL.png",ABC 7 Detroit MI (WXYZ-TV) (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/raycom/HJ3SAXRMNFAHXOFIRVYCQBIOGM.jpg",ABC 7 Sarasota FL (WWSB) (720p)
-https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/LttuGfq.png",ABC 7 Washington DC (WJLA) (720p)
-https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/CZZBTGv.jpg",ABC 8 Davenport IA (WQAD) (1080p)
-https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/6oNx5F0.png",ABC 9 Manchester NH (WMUR-TV) (720p)
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-square.jpg",ABC 9 Orlando FL (WFTV) (540p)
-https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png",ABC News (720p)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg",Newsmax (1080p)
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_cc.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/aqxCgyG.jpg",美国北美
+https://livevideo01.abc10.com/hls/live/2014547/newsc.M3U8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/PfFJy5E.png",Christian Youth Channel (1080p)
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FiTdDp1.png",24 Hour Free Movies (720p)
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 group-title="Outdoor" tvg-logo="https://i.imgur.com/l2O0fY1.png",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/GVZuKc7.png",3ABN (720p)
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/GVZuKc7.png",新教3ABN (720p)
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/eOvzf3d.png",3ABN Kids (720p)
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/eOvzf3d.png",新教3ABN Kids (720p)
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 ,彭博财经(美)Bloomberg TV
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",彭博财经欧洲Bloomberg TV Europe (720p)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/xGlToly.png",Bloomberg TV+ (1080p)
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/YGdDVAQ.jpg",Boston 25 News (WFXT) (720p)
 https://d2dy6pkj44n6e7.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10020_27d61a9c-67b2-4d7c-9486-626a6a071467_LE/in/cmg-wftxtv-hls-v3/live.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/lhjj94a.png",儿童·Brat TV (1080p)
 https://brat-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/BUZZR_190x190.png?raw=true",美国蜂鸣器Buzzr (1080p)
-https://buzzr-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,美国犬俱乐部AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
-#EXTINF:-1 ,美国·佛州夏洛特县CCTV (Charlotte County)
-http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/BUZZR_190x190.png?raw=true",蜂鸣器Buzzr (1080p)
+#EXTINF:-1 group-title="Kids" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116",HappyKids (1080p)
+https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116",HappyKids Junior (720p)
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/1MGJg18.jpg",儿童频道·Pinkfong Baby Shark (1080p)
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ZbAVzad.png",KidsFlix (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/19namZP.jpg",Kidz Bop (1080p)
+https://kidzbop-rokuus.amagi.tv/hls/amagi_hls_data_kidzbopAA-kidzbop-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/xePwW13.png",乐高Lego Channel (1080p)
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/TXamgdB.png",Entertainment Tonight 新闻 (1080p)
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752",News 12 New York (1080p)
+https://news12-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f84951fcd58b17880350243_news12-live/a49c22ce-bd31-4cba-afa5-5da8a9cc060b/1.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eEqyFBX.jpg",Newsy (1080p)
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/f4Bec0i.png",西班牙语Estrella News (1080p)
+https://estrellanews-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.unored247.com/bill/templates/smartlinehost/html/images/extrema_client_logo.png",西班牙语Extrema TV (1080p)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4PiLKrm.png",Estrella TV East (1080p)
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/tLNvGbt.png",美国广播公司ABC 2 Atlanta GA (WSB-TV) (720p)
+https://wsb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec7509821af343da7fe7c3_wsb-live/12c84bd8-1f84-4a65-b6b7-ce6a8c1418b5/0.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png",ABC 2 Baton Rouge LA (WBRZ) (720p) [Not 24/7]
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/svfSv3O.jpg",ABC 3 Corpus Christi TX (KIII) (1080p)
+https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4iEFQjd.png",ABC 4 Pittsburg PA (WTAE) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/8vXRrRe.jpg",ABC 4 Seattle WA (KOMO-TV) (720p)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1",ABC 5 Cleveland OH (WEWS-TV) (1080p)
+https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/VCH35gk.png",ABC 5 Cleveland OH (WEWS-TV) (1080p) [Not 24/7]
+https://wews-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6019eb7b342c731b5409c872_wews-live/8d8d2802-5dff-4a78-9a88-3e39925dc2eb/0.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/1jA3nKg.jpg",ABC 5 Des Moines IA (WOI) (1080p)
+https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/yxEbZqn.jpg",ABC 5 Oklahoma City OK (KOCO) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eelz8kT.png",ABC 5 Right Now | Great Falls | Helena MT (KFBB-TV) (720p) [Not 24/7]
+https://kfbb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9b05e1bdb905c0636aaa2_kfbb-live/d041b5d9-5786-497e-83fc-dc60c9d17d28/1.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/JExsI09.png",ABC 7 Denver CO (KMGH) (720p)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MIVPvXa.png",ABC 7 Denver CO (WMGH-TV) (1080p) [Not 24/7]
+https://kmgh-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ac1ac9ac0d4b0b9306bb13_kmgh-live/e34adc98-d22c-4041-b839-3a61c621718d/0.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/J9fH2sG.png",ABC 7 Detroit MI (WXYZ-TV) (1080p) [Not 24/7]
+https://wxyz-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ae91960fc0ab60b432e002_epg-wxyz/909fd6c5-ec37-4fc5-a760-7324bb1053d4/0.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/8sQ5mfL.png",ABC 7 Detroit MI (WXYZ-TV) (720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://imgur.com/nKAUCLF.jpg",ABC 7 Los Angeles CA (KABC-TV) (720p)
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCwatch.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/BuO1yHQ.png",ABC 7 Omaha NE (KETV) (720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/LttuGfq.png",ABC 7 Washington DC (WJLA) (720p)
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/CZZBTGv.jpg",ABC 8 Davenport IA (WQAD) (1080p)
+https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/7forojc.jpg",ABC 9 Charlotte NC (WSOC-TV) (720p)
+https://wsoc-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec767ccf811b28ab4b5178_wsoc-live/fc31136d-53d2-40ce-bf5c-968151104189/0.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/DCBHkiP.jpg",ABC 9 Kansas City MO (KMBC-TV) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/6oNx5F0.png",ABC 9 Manchester NH (WMUR-TV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-square.jpg",ABC 9 Orlando FL (WFTV) (540p)
+https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/2TYoO5j.png",ABC 9 Orlando FL (WFTV-TV) (720p)
+https://wftv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec6c88697fde61b473b215_wftv-live/02d33bc1-916f-49a6-b410-0cf80a00f52b/0.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/aqxCgyG.jpg",ABC 10 Sacramento CA (KXTV) (1080p)
+https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/1j1Hx75.png",ABC 10 San Diego CA (KGTV) (720p) [Not 24/7]
+https://kgtv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_608c3eab42d73848377823a0_kgtv-live/64a7b248-d0ab-4bb0-ac0a-241cbec4c23a/0.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/eapvJpP.jpg",ABC 13 Grand Rapids MI (WZZM) (1080p)
+https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/QbkW7zY.png",ABC 13 Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png",ABC 15 Phoenix AZ (KNXV-TV) (720p)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/SBiEXzP.png",ABC 15 Phoenix AZ (KNXV-TV) (1080p) [Not 24/7]
+https://d1x9zfzf9roioy.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60998e4a5b0b051955170c4e_knxv-live/b7ba6371-db64-4797-9ff9-0a6e3f3c2ff1/0.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/1s3Euh5.jpg",ABC 16 Wilkes Barre PA (WNEP) (1080p)
+https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/nLBEhIx.jpg",ABC 24 Austin TX (KVUE) (1080p)
+https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/ukf1WZ0.jpg",ABC 24 Memphis TN (WATN-TV) (1080p)
+https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/vws7p6H.png",ABC-FOX 18 Butte MT (KWYB-TV) (720p) [Not 24/7]
+https://kwyb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9af3601a42f4980067072_kwyb-live/44bb663d-febe-44d9-9064-018ae5ccb94d/1.m3u8
+
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kDqyJcP.jpg",哥伦比亚广播公司CBSN (720p)
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/wEGXQ6G.jpg",CBSN 4 Boston MA (WBZ-TV) (720p)
+https://cbsn-bos-cedexis.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/kDqyJcP.jpg",CBSN Live Event (720p)
+https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/ps6uQSW.jpg",CBS 2 Greensboro NC (WFMY) (1080p)
+https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/UANdGqv.jpg",CBS 2 Spokane WA (KREM) (1080p)
+https://livevideo01.krem.com/hls/live/2017156/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png",CBS 3 Omaha NE (KMTV-TV) (720p)
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/BvlV1dl.jpg",CBS 4 New Orleans LA (WWL-TV) (1080p)
+https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/i0KCLny.jpg",CBS 5 Ft Smith AR (KFSM-TV) (1080p)
+https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/pXP12FV.png",CBS 5 Nashville TN (WTVF) (720p) [Not 24/7]
+https://wtvf-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60a7ff2dc8e6a009e40d13c2_epg-wtvf/0a873ded-726a-4fcc-8b6f-fa88dac0f807/0.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/zV8X5Fi.jpg",CBS 5 San Antonio TX (KENS) (1080p)
+https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/ByPFQGp.png",CBS 6 Albany NY (WRGB) (720p)
+https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/WT4UtR7.png",CBS 7 Dayton OH (WHIO-TV) (720p)
+https://whio-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec6ffdf7633b2e077bda44_whio-live/6301d11e-05d0-4487-8d2e-09d3927d0d70/0.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/u6470R1.png",CBS 7 Seattle WA (KIRO-TV) (720p)
+https://kiro-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec6a57697fde61b473b214_kiro-live/cb075082-6363-4e06-b769-fd508bbe8b6c/0.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/QJyt4n4.jpg",CBS 8 San Diego CA (KFMB-TV) (1080p)
+https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/Q8IwOiL.jpg",CBS 9 Los Angeles CA (KCAL-TV) (720p)
+https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/Ekt1an0.png",CBS 9 Washington DC (WUSA) (720p)
+https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/Wq4M60P.jpg",CBS 10 Columbus OH (WBNS-TV) (1080p)
+https://livevideo01.10tv.com/hls/live/2013836/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/Plp4dZh.jpg",CBS 10 Tampa FL (WTSP) (1080p)
+https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/Oy5hH08.png",CBS 11 Dallas TX (KTVT) (720p)
+https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/aTU1n4l.jpg",CBS 11 Houston TX (KHOU) (1080p)
+https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/NCpIwNs.jpg",CBS 11 Toledo OH (WTOL) (1080p)
+https://livevideo01.wtol.com/hls/live/2017153/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/SG7iSaA.png",CBS 12 West Palm Beach FL (WPEC) (720p)
+https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/FAqyK7J.jpg",CBS 13 Macon GA (WMAZ-TV) (1080p)
+https://livevideo01.13wmaz.com/hls/live/2017376/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/nSCGzFC.jpg",CBS 19 Columbia SC (WLTX) (1080p)
+https://livevideo01.wltx.com/hls/live/2017152/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/DXSPhYX.jpg",CBS 19 Tyler TX (KYTX) (1080p)
+https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/XuzRQjy.png",CBS 46 Atlanta GA (WGCL-TV) (720p) [Not 24/7]
+https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/LW3Dfbt.png",CBS 47 Action News Jacksonville FL (WJAX-TV) (720p)
+https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/vEjcM9P.png",CBS 47 | FOX 30 Jacksonville FL (WJAX-TV) (720p)
+https://wjax-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec72001057fa6e4b3ebcd2_wjax-live/6f5aef42-21d9-4551-887e-eb18a7945066/0.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/PVINnkR.jpg",CBS THV11 Little Rock AR (KTHV) (1080p)
+https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/hc5a1YP.png",福克斯新闻FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/E9vX12j.jpg",FOX 13 Memphis TN (WHBQ-TV) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/95mOsU4.png",FOX 13 Now Memphis TN (WHBQ-TV) (720p)
+https://d19n8xh4l47isv.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60a6bc0404a67d082e463913_whbq-live/abc1b709-6d84-4deb-84a8-dec3ea77b5e8/0.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/TSTAkkq.jpg",FOX 15 West Texas Abilene TX (KXVA) (1080p)
+https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/IS30eiF.png",FOX 23 Tulsa OK (KOKI-TV) (720p)
+https://d1qauyesiiplpj.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60a6c3588e35957ea840bb02_koki-live-1/e13a6437-9c85-428e-a079-a88f84dbbd7a/0.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/pRKEMb1.jpg",FOX 23 Tulsa OK (KOKI-TV) (720p)
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG",FOX 28 Savannah GA (WTGS) (720p)
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/kRaIhOa.jpg",FOX 43 Harrisburg PA (WPMT) (1080p)
+https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/2HWx7Av.jpg",FOX 54.1 Huntsville AL (WZDX) (1080p)
+https://livevideo01.rocketcitynow.com/hls/live/2011659/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/6QlmS1C.jpg",FOX 61 Hartford CT (WTIC-TV) (1080p)
+https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Z5SATrd.png",FOX News Radio (192p)
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 group-title="Culture" tvg-logo="https://i.imgur.com/YIamDGn.png",Fox Soul (1080p)
+http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png",全美广播公司NBC News Now (1080p)
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/m4MZTtj.jpg",NBC 2 Buffalo NY (WGRZ) (1080p)
+https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/7erOEZJ.gif",NBC 5 Cincinnati OH (WLWT) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/aDqnu8Y.jpg",NBC 5 Seattle WA (KING) (1080p)
+https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/4zQaZBX.jpg",NBC 5 St. Louis MO (KSDK) (1080p)
+https://livevideo01.ksdk.com/hls/live/2014965/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/dwtqWbI.png",NBC 5 West Palm Beach FL (WPTV-TV) (720p) [Not 24/7]
+https://d2w2eizx69h821.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_609990656eddc37f4b745083_wptv-live/d298beaa-c8a5-4de9-b7fd-d293f4ed479d/0.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/zkkg70O.jpg",NBC 6 College Station TX (KAGS) (1080p)
+https://livevideo01.kagstv.com/hls/live/2016283/newscasts/live.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cB1bxJw.jpg",NBC 6 New Orleans LA (WDSU) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/LwwJQw0.png",NBC 6 Spokane WA (KHQTV) (720p)
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/96ef92fd-36df-43e5-b434-ed10cc615742.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/l9T46o3.jpg",NBC 6 Waco TX (KCEN) (1080p)
+https://livevideo01.kcentv.com/hls/live/2017155/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/2sLPTiM.jpg",NBC 7 Boise ID (KTVB) (1080p)
+https://livevideo01.ktvb.com/hls/live/2014542/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/tekKgXi.jpg",NBC 8 Portland OR (KGW) (1080p)
+https://livevideo01.kgw.com/hls/live/2015506/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/uv82wud.jpg",NBC 9 Denver CO (KUSA) (1080p)
+https://livevideo01.9news.com/hls/live/2014548/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/mMQoVWG.jpg",NBC 10 Knoxville TN (WBIR-TV) (1080p)
+https://livevideo01.wbir.com/hls/live/2016515/newscasts/live-2000.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/yR2o6Dw.jpg",NBC 11 Alive Atlanta GA (WXIA-TV) (1080p)
+https://livevideo01.11alive.com/hls/live/2015499/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/oyLgNR6.jpg",NBC 11 Minneapolis MN (KARE) (1080p)
+https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/iud5PUZ.png",NBC 11 Pittsburgh PA (WPXI) (720p)
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/jZ6wfb7.png",NBC 11 Pittsburgh PA (WPXI) (720p)
+https://wpxi-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec734b33fbda22ed1fff54_wpxi-live/ccbdde1e-b076-4373-a12a-61ff453cdc7b/0.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/f1FiXuX.jpg",NBC 12 Phoenix AZ (KPNX) (1080p)
+https://livevideo01.12news.com/hls/live/2015501/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/DQK8BrE.jpg",NBC 13 Indianapolis IN (WTHR) (1080p)
+https://livevideo01.wthr.com/hls/live/2013835/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/qOO32m6.png",NBC 15 Madison WI (WMTV) (720p)
+https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/q6GeuW8.png",NBC 25 Tri-Cities Richland WA (KNDU) (720p) [Not 24/7]
+https://kndu-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9a3541653bb5d8d5dbb96_kndu-live-1/8a5c1c57-d616-4677-929f-ee80ebbea564/1.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/31cd86c/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F09%2F30%2F6709482a41ef96f6ba6259d6ae66%2Fwgba-geographic-locator-600x200.png",NBC 26 Green Bay WI (WGBA) (720p)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/BMncWbQ.png",NBC 41 Kansas City (KSHB-TV) (720p) [Not 24/7]
+https://kshb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60b682c64fcc8c629d172d35_kshb-live/bd89bcf7-e584-44ae-af55-e1f24eaf701f/0.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/DJrdp7S.jpg",NBC 207 Bangor Portland ME (WLBZ) (1080p)
+https://livevideo01.newscentermaine.com/hls/live/2014540/newscasts/live/wcsh.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/KQrtvoo.jpg",NBC / ABC Jacksonville FL (WTLV) (1080p)
+https://livevideo01.firstcoastnews.com/hls/live/2014550/newscasts/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/qshcBQk.jpg",NBC NewsWest 9 Midland-Odessa TX (KWES) (1080p)
+https://livevideo01.newswest9.com/hls/live/2017380/newscasts/live.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/kvdqP3H.jpg",爱狗人士Fido TV (1080p)
+https://fidotv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/5X5Z5eg.png",纪录片Docurama (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/jCaWSFK.png",闹鬼电视Haunt TV (1080p)
+https://haunttv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/uMPu5HU.png",Hi-YAH! 武术和亚洲动作电影(1080p)
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TaeeQnn.png",高时代dama合法化High Times (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/xXr4Cnq.png",海纳孚体育HNC Free (1080p)
+https://hncfree-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,美国马里兰州Bowie TV
 http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:-1 ,美国·哥伦比亚广播公司新闻CBSN
-https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
 #EXTINF:-1 ,美国· christ CTN
 http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/zl7Gzwm.png",A&E (Best of) (1080p)
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/YbD8uHc.png",Nature Live Animal Live (Bumblebee) (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/1WIEWK7.png",Nature Live Aurora Live (Bumblebee) (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/4rIbV7e.png",Nature Live Beaches Live (Bumblebee) (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/J84tZzN.png",Nature Live Forest Live (Bumblebee) (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/xAkuMa4.png",Nature Live Lake Live (Bumblebee) (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/2Ipv14J.png",Nature Live Mountain Live (Bumblebee) (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/ii2IDmA.png",Nature Live Rivers Live (Bumblebee) (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/K4GaruD.png",Nature Live Sunset Live (Bumblebee) (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/8F9qPbt.png",Nature Live Tropics Live (Bumblebee) (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/i43l93j.png",Nature Live Waterfalls Live (Bumblebee) (1080p)
-https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/B3oElWL.jpg",电子竞技ESTV (1080p)
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60417731dc00887af0275acb",Fear This!视频频道 (720p)
+https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Classic" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d20ef2189b2698a380ff2",Fear This! Classics 视频频道(720p)
+https://linear-153.frequency.stream/dist/localnow/153/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60627a97603dcd03ae7ed472",Fear This!视频频道 Sci-Fi (720p)
+https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/gWPiYH9.png",印度裔美国人Ind TV USA (720p)
+https://t06858-lh.akamaihd.net/i/t06858a_1@719164/master.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/journy.png",旅行Journy (1080p)
+https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8?did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&pid=5f5132df62fe160040f26bc2&ptoken=PLbo_Jw_s1xgoB_1Srgg
+
+
+
+#EXTINF:-1 ,Local Now电视剧 Career Day (720p)
+https://linear-88.frequency.stream/dist/localnow/88/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now ChopperTown (720p)
+https://linear-11.frequency.stream/dist/localnow/11/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now Christmas in July (720p) [Not 24/7]
+https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c590dfe3ed0580c0c0494",Local Now Comedy (720p)
+https://linear-89.frequency.stream/dist/localnow/89/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now Comics Unleashed (720p)
+https://linear-208.frequency.stream/dist/localnow/208/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60481e10fa33524246049ac3",Local Now Discover (720p)
+https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/603ef0de115bdc7aec7b7e82",Local Now Drama (720p)
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now Elevation (720p)
+https://linear-210.frequency.stream/dist/localnow/210/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fdd3cad46f6084ed5257102",Local Now Fireside (720p)
+https://linear-127.frequency.stream/dist/localnow/127/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now Funny You Should Ask (720p)
+https://linear-207.frequency.stream/dist/localnow/207/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now Horizon (720p)
+https://linear-211.frequency.stream/dist/localnow/211/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e56c1043be40ef1371493",Local Now Insight (720p)
+https://linear-154.frequency.stream/dist/localnow/154/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6019e7e94284092f43126172",Local Now Inspiration (720p)
+https://linear-134.frequency.stream/dist/localnow/134/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now Justice (720p)
+https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now Movies of the 30's and 40's (720p)
+https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now Movies of the 50's and 60's (720p)
+https://linear-203.frequency.stream/dist/localnow/203/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now Movies of the 70's (720p)
+https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now Movies of the 80's (720p)
+https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now Movies of the 90's (720p)
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607df5a93273c1288c732f59",Local Now Movies of the 2000s (720p)
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607df6d8ec9c645c921ecaa3",Local Now Movies of the 2010s (720p)
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now Movies of the 2020s (720p)
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now Mr Box Office (720p)
+https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true",放大镜艺术皮蛋Loupe 4K (2160p)
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d18ac345cf61eb60b5895",Loupe Art (720p)
+https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Ot9wh52.png",Mad Dog and Merrill 中西部烧烤电视节目(540p)
+https://rpn1.bozztv.com/36bay2/gusa-mwg/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://millenniumtv24.com/wp-content/uploads/2020/07/logo-new-24-02.png",南亚人民Millennium TV 24 (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://millenniumtv.org/wp-content/uploads/2021/06/Icon-512.png",南亚人民Millennium TV USA (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png",NBC News Now (1080p)
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752",News 12 New York (1080p)
 https://livestream.chdrstatic.com/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f482606a67962a0dd5e/localnow/n12nyLocalNow/news12newyork/primary/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eEqyFBX.jpg",Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/1MGJg18.jpg",儿童频道·Pinkfong Baby Shark (1080p)
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",美国广播公司ABC News 10 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 2 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 3 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 4 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 5 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 6 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 7 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 8 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 9 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+
 #EXTINF:-1 group-title="Religious" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",美国CBN News (1080p)
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/Wq4M60P.jpg",CBS城市系列CBS 10 Columbus OH (WBNS-TV) (1080p)
@@ -827,34 +1055,9 @@ https://livevideo01.ktvb.com/hls/live/2014542/newscasts/live.m3u8
 https://livevideo01.kgw.com/hls/live/2015506/newscasts/live.m3u8
 #EXTINF:-1 ,NBC 9 Denver CO 科罗拉多州-丹佛 (KUSA) (1080p)
 https://livevideo01.9news.com/hls/live/2014548/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/E9vX12j.jpg",FOX 13 Memphis TN (WHBQ-TV) (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/95mOsU4.png",FOX 13 Now Memphis TN (WHBQ-TV) (720p)
-https://d19n8xh4l47isv.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60a6bc0404a67d082e463913_whbq-live/abc1b709-6d84-4deb-84a8-dec3ea77b5e8/0.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/TSTAkkq.jpg",FOX 15 West Texas Abilene TX (KXVA) (1080p)
-https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/IS30eiF.png",FOX 23 Tulsa OK (KOKI-TV) (720p)
-https://d1qauyesiiplpj.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60a6c3588e35957ea840bb02_koki-live-1/e13a6437-9c85-428e-a079-a88f84dbbd7a/0.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/pRKEMb1.jpg",FOX 23 Tulsa OK (KOKI-TV) (720p)
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG",FOX 28 Savannah GA (WTGS) (720p)
-https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/kRaIhOa.jpg",FOX 43 Harrisburg PA (WPMT) (1080p)
-https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/2HWx7Av.jpg",FOX 54.1 Huntsville AL (WZDX) (1080p)
-https://livevideo01.rocketcitynow.com/hls/live/2011659/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/6QlmS1C.jpg",FOX 61 Hartford CT (WTIC-TV) (1080p)
-https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/hc5a1YP.png",FOX News Now (720p)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Z5SATrd.png",FOX News Radio (192p)
-https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 group-title="Culture" tvg-logo="https://i.imgur.com/YIamDGn.png",Fox Soul (1080p)
-http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 ,美国切达新闻·Cheddar News (720p)
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?appVersion=5.2.7&deviceDNT=web&deviceId=web24163643069&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=1&serverSideAds=false&sid=web24157571521
-#EXTINF:-1 ,美国CNN (720p)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 ,美国CNN International (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,美国康特夫CONtv (1080p)
@@ -863,11 +1066,9 @@ https://contv-localnow.cinedigm.com/playlist.m3u8
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 #EXTINF:-1 ,美国鸽子电视Dove Channel (1080p)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-#EXTINF:-1 ,爱自然西班牙语Love Nature Español (1080p)
-https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8
 #EXTINF:-1 ,美国游戏评测IGN (1080p)
 https://ign-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,美国儿童频道KidsClick (720p) [Geo-blocked]
+#EXTINF:-1 ,美国儿童频道KidsClick (720p) （地理封锁）
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
 #EXTINF:-1 ,美国儿童KidsFlix (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
@@ -889,32 +1090,68 @@ https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://od.lk/s/MF8yMjQyNTQ1MzNf/EWTN_450x450.png",天主教欧洲EWTN Europe (720p)
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3",AFV Español (720p)
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3",AFV搞笑视频 Español (720p)
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3",AFV Español (720p)
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3",AFV搞笑视频 Español (720p)
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV Family (720p)
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV搞笑视频 Family (720p)
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV Family (720p)
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV搞笑视频 Family (720p)
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV Family (720p)
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV搞笑视频 Family (720p)
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV Family (Belgium) (720p)
-https://futuretoday-afv-family-1-be.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV Family (Denmark) (720p)
-https://futuretoday-afv-family-1-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV Family (Finland) (720p)
-https://futuretoday-afv-family-1-fi.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV Family (Ireland) (720p)
-https://futuretoday-afv-family-1-ie.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV Family (Luxemburg) (720p)
-https://futuretoday-afv-family-1-lu.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV Family (Norway) (720p)
-https://futuretoday-afv-family-1-no.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV Family (Portugal) (720p)
-https://futuretoday-afv-family-1-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3",AFV Family En Español (720p)
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV搞笑视频 Family (Belgium) (720p)
+https://futuretoday-AFV搞笑视频-family-1-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV搞笑视频 Family (Denmark) (720p)
+https://futuretoday-AFV搞笑视频-family-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV搞笑视频 Family (Finland) (720p)
+https://futuretoday-AFV搞笑视频-family-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV搞笑视频 Family (Ireland) (720p)
+https://futuretoday-AFV搞笑视频-family-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV搞笑视频 Family (Luxemburg) (720p)
+https://futuretoday-AFV搞笑视频-family-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV搞笑视频 Family (Norway) (720p)
+https://futuretoday-AFV搞笑视频-family-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94",AFV搞笑视频 Family (Portugal) (720p)
+https://futuretoday-AFV搞笑视频-family-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3",AFV搞笑视频 Family En Español (720p)
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/zl7Gzwm.png",A&E (Best of) (1080p)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/YbD8uHc.png",Nature Live Animal Live (Bumblebee) (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/1WIEWK7.png",Nature Live Aurora Live (Bumblebee) (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/4rIbV7e.png",Nature Live Beaches Live (Bumblebee) (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/J84tZzN.png",Nature Live Forest Live (Bumblebee) (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/xAkuMa4.png",Nature Live Lake Live (Bumblebee) (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/2Ipv14J.png",Nature Live Mountain Live (Bumblebee) (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/ii2IDmA.png",Nature Live Rivers Live (Bumblebee) (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/K4GaruD.png",Nature Live Sunset Live (Bumblebee) (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/8F9qPbt.png",Nature Live Tropics Live (Bumblebee) (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/i43l93j.png",Nature Live Waterfalls Live (Bumblebee) (1080p)
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/tFks0c6.jpg",美国Adult Swim Off The Air (1080p) （地理封锁）
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/vLzXFTa.jpg",美国Adult Swim Rick and Morty (1080p) （地理封锁）
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/bTWIjIw.jpg",美国Adult Swim Robot Chicken (1080p) （地理封锁）
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/zIjbwSa.jpg",美国Adult Swim Samurai Jack (1080p) （地理封锁）
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/tqHQy32.jpg",美国Adult Swim The Eric Andre Show (1080p) （地理封锁）
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/QQc2rh8.jpg",美国Adult Swim The Venture Bros (1080p) （地理封锁）
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/yVZAI7F.png",美国Adult Swim Your Pretty Face Is Going To Hell (1080p) （地理封锁）
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 #EXTINF:-1 ,CGTN西语
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 ,西班牙语·24 Horas
