@@ -33,26 +33,12 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 ,CCTV-17 农业农村 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225909/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-怀旧剧场
-http://live.gq.miguvideo.com:8080/ws_v/2018/hjjc/hjjc711/1000/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="央视",CCTV-第一剧场
 http://117.148.179.160/PLTV/88888888/224/3221231540/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-风云剧场
 http://117.148.179.160/PLTV/88888888/224/3221231604/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-风云音乐
-http://live.gq.miguvideo.com:8080/ws_v/2018/fyyy/fyyy711/1000/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="央视",CCTV-风云足球
 http://117.148.179.160/PLTV/88888888/224/3221231547/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-兵器科技
-http://live.gq.miguvideo.com:8080/ws_v/2018/gfjs/gfjs711/1000/index.m3u8?&encrypt=1
-#EXTINF:-1 group-title="央视",CCTV-世界地理
-http://live.gq.miguvideo.com:8080/ws_v/2018/sjdl/sjdl711/1000/index.m3u8?&encrypt=1
-#EXTINF:-1 group-title="央视",CCTV-女性时尚
-http://live.gq.miguvideo.com:8080/ws_v/2018/nxss/nxss711/1000/index.m3u8?&encrypt=1
-#EXTINF:-1 group-title="央视",CCTV-央视台球
-http://live.gq.miguvideo.com:8080/ws_v/2018/ystq/ystq711/1000/index.m3u8?&encrypt=1
-#EXTINF:-1 group-title="央视",CCTV-高尔夫网球
-http://live.gq.miguvideo.com:8080/ws_v/2018/gefwq/gefwq711/1000/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="央视",CGTN俄罗斯语
 http://117.148.179.160/PLTV/88888888/224/3221231591/index.m3u8
 #EXTINF:-1 group-title="央视",中央新影-老故事
@@ -69,135 +55,82 @@ http://ott.js.chinamobile.com/PLTV/4/224/3221225850/index.m3u8
 http://ott.js.chinamobile.com/PLTV/4/224/3221227018/index.m3u8
 #EXTINF:-1 group-title="央视",中国教育4
 http://ott.js.chinamobile.com/PLTV/4/224/3221227657/index.m3u8
-#EXTINF:-1 group-title="央视",早期教育
-http://39.130.202.115:6610/gitv_live/G_CETV-ZQJY/G_CETV-ZQJY.m3u8
 #EXTINF:-1 ,------------------卫视---------------
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
-#EXTINF:-1 ,凤凰资讯 高清
-http://223.110.235.5/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#EXTINF:-1 ,凤凰中文 高清
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#EXTINF:-1 ,凤凰香港 高清
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-#EXTINF:-1 ,北京卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 ,冬奥纪实 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 ,辽宁卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
-#EXTINF:-1 ,重庆卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225692/index.m3u8
-#EXTINF:-1 ,东方卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 ,安徽卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225691/index.m3u8
-#EXTINF:-1 ,山东卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 group-title="山东",东平新闻频道
-https://jsylivealone302.iqilu.com/dongping/dongping_tv01/index.m3u8
-#EXTINF:-1 group-title="山东",东平民生频道
-https://jsylivealone302.iqilu.com/dongping/dongping_tv02/index.m3u8
-#EXTINF:-1 group-title="山东",岱岳综合频道
-https://jsylivealone302.iqilu.com/daiyue/daiyue_tv01/index.m3u8
-#EXTINF:-1 group-title="山东",肥城综合频道
-https://jsylivealone302.iqilu.com/feicheng/feicheng_tv01/index.m3u8
-#EXTINF:-1 group-title="山东",肥城生活频道
-https://jsylivealone302.iqilu.com/feicheng/feicheng_tv02/index.m3u8
-#EXTINF:-1 group-title="山东",宁阳综合频道
-https://jsylivealone302.iqilu.com/live/ningyang_tv01/index.m3u8
-#EXTINF:-1 group-title="山东",宁阳电视二套
-https://jsylivealone302.iqilu.com/live/ningyang_tv02/index.m3u8
-#EXTINF:-1 group-title="山东",新泰综合频道
-https://jsylivealone302.iqilu.com/xintai/xintai_tv01/index.m3u8
-#EXTINF:-1 group-title="山东",新泰乡村频道
-https://jsylivealone302.iqilu.com/xintai/xintai_tv02/index.m3u8
-#EXTINF:-1 ,天津卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225698/index.m3u8
-#EXTINF:-1 ,湖北卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225699/index.m3u8
-#EXTINF:-1 ,湖南卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
-#EXTINF:-1 ,广东卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225701/index.m3u8
-#EXTINF:-1 ,江苏卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225702/index.m3u8
-#EXTINF:-1 ,浙江卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
-#EXTINF:-1 ,深圳卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225700/index.m3u8
-#EXTINF:-1 ,黑龙江卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225690/index.m3u8
-#EXTINF:-1 ,东南卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,河北卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,河南卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,贵州卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,四川卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,广西卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,江西卫视 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,江西新闻 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,江西少儿 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 ,金鹰纪实 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,快乐垂钓 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,茶频道 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,纪实人文 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 ,黑莓动画 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 ,黑莓电影 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
-#EXTINF:-1 ,哒啵赛事 高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225749/index.m3u8
-#EXTINF:-1 ,纯享4K 4K超高清
-http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1 ,求索记录 高清
-http://39.134.66.10/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 ,求索生活 高清
-http://39.134.66.10/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 ,求索科学 高清
-http://39.134.66.10/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 ,求索动物 高清
-http://39.134.66.10/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 ,吉林卫视 高清
-http://39.134.66.10/PLTV/88888888/224/3221225872/index.m3u8
-#EXTINF:-1 ,黑龙江影视 高清
-http://39.134.66.10/PLTV/88888888/224/3221225849/index.m3u8
-#EXTINF:-1 ,黑龙江都市 高清
-http://39.134.66.10/PLTV/88888888/224/3221225853/index.m3u8
-#EXTINF:-1 ,黑龙江文体 高清
-http://39.134.66.10/PLTV/88888888/224/3221225866/index.m3u8
-#EXTINF:-1 ,黑龙江少儿 高清
-http://39.134.66.10/PLTV/88888888/224/3221225870/index.m3u8
-#EXTINF:-1 ,黑龙江新闻法治 高清
-http://39.134.66.10/PLTV/88888888/224/3221225868/index.m3u8
-#EXTINF:-1 ,黑龙江公共农业 高清
-http://39.134.66.10/PLTV/88888888/224/3221225874/index.m3u8
-#EXTINF:-1 ,甘肃卫视 高清
-http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1 ,甘肃都市 高清
-http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 ,甘肃经济 高清
-http://39.134.39.39/PLTV/88888888/224/3221226252/index.m3u8
-#EXTINF:-1 ,甘肃少儿 高清
-http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
-#EXTINF:-1 ,甘肃文化影视 高清
-http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
-#EXTINF:-1 ,甘肃公共应急 高清
-http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8
-#EXTINF:-1 ,第一财经 高清
-http://39.134.39.39/PLTV/88888888/224/3221226172/index.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视HD
+http://coocaa-ynbit-ws.ifengli.com:2386/live/hnws-hd/1.m3u8
+#EXTINF:-1 group-title="卫视",江苏卫视HD
+http://coocaa-ynbit-ws.ifengli.com:2386/live/jsws-hd/1.m3u8
+#EXTINF:-1 group-title="卫视",浙江卫视HD
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 group-title="卫视",东方卫视HD
+http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="卫视",广东卫视HD
+http://coocaa-ynbit-ws.ifengli.com:2386/live/gdws-hd/1.m3u8
+#EXTINF:-1 group-title="卫视",深圳卫视HD
+http://coocaa-ynbit-ws.ifengli.com:2386/live/szws-hd/1.m3u8
+#EXTINF:-1 group-title="卫视",北京卫视HD
+http://39.134.68.168:6610/PLTV/88888888/224/3221226064/index.m3u8?
+#EXTINF:-1 group-title="卫视",天津卫视HD
+http://ott.js.chinamobile.com/PLTV/4/224/3221227741/index.m3u8
+#EXTINF:-1 group-title="卫视",山东卫视HD
+http://ott.js.chinamobile.com/PLTV/4/224/3221227671/index.m3u8
+#EXTINF:-1 group-title="卫视",湖北卫视HD
+http://ott.js.chinamobile.com/PLTV/4/224/3221227665/index.m3u8
+#EXTINF:-1 group-title="卫视",黑龙江卫视HD
+http://39.134.68.168:6610/PLTV/88888888/224/3221226014/index.m3u8?
+#EXTINF:-1 group-title="卫视",河北卫视HD
+http://ott.js.chinamobile.com/PLTV/4/224/3221228106/index.m3u8
+#EXTINF:-1 group-title="卫视",辽宁卫视HD
+http://ott.js.chinamobile.com/PLTV/4/224/3221227676/index.m3u8
+#EXTINF:-1 group-title="卫视",东南卫视HD
+http://ott.js.chinamobile.com/PLTV/4/224/3221227670/index.m3u8
+#EXTINF:-1 group-title="卫视",江西卫视HD
+http://ott.js.chinamobile.com/PLTV/4/224/3221227738/index.m3u8
+#EXTINF:-1 group-title="卫视",重庆卫视HD
+http://ott.js.chinamobile.com/PLTV/4/224/3221227729/index.m3u8
+#EXTINF:-1 group-title="卫视",四川卫视HD
+http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
+#EXTINF:-1 group-title="卫视",云南卫视HD
+http://39.130.202.115:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+#EXTINF:-1 group-title="卫视",河南卫视HD
+http://39.134.65.162/PLTV/88888888/224/3221225890/1.m3u8
+#EXTINF:-1 group-title="卫视",陕西卫视HD
+http://coocaa-ynbit-ws.ifengli.com:2386/live/sxws-sd/1.m3u8
+#EXTINF:-1 group-title="卫视",贵州卫视HD
+http://39.134.65.179/PLTV/88888888/224/3221225888/1.m3u8
+#EXTINF:-1 group-title="卫视",吉林卫视HD
+http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221227163/index.m3u8
+#EXTINF:-1 group-title="卫视",海南卫视HD
+http://39.134.68.168:6610/PLTV/88888888/224/3221226102/index.m3u8?
+#EXTINF:-1 group-title="卫视",甘肃卫视HD
+http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 group-title="卫视",厦门卫视HD
+http://223.110.245.158/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
+#EXTINF:-1 group-title="央视",CHC高清电影
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 group-title="卫视",南方卫视
+http://39.134.19.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8
+#EXTINF:-1 group-title="卫视",山西卫视
+http://39.135.140.227:6610/PLTV/88888888/224/3221225549/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视",青海卫视
+http://39.134.68.168:6610/PLTV/88888888/224/3221226032/index.m3u8?
+#EXTINF:-1 group-title="卫视",西藏卫视
+http://39.134.68.168:6610/PLTV/88888888/224/3221226040/index.m3u8?
+#EXTINF:-1 group-title="卫视",内蒙古卫视
+https://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
+#EXTINF:-1 group-title="卫视",宁夏卫视
+http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?
+#EXTINF:-1 group-title="卫视",新疆卫视
+http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8
+#EXTINF:-1 group-title="卫视",兵团卫视
+http://39.134.68.168:6610/PLTV/88888888/224/3221226026/index.m3u8?
+#EXTINF:-1 group-title="卫视",三沙卫视
+http://pull2.ssws.tv/live/SswsTV20210803.m3u8
+#EXTINF:-1 group-title="卫视",延边卫视
+http://ott.js.chinamobile.com/PLTV/4/224/3221227002/index.m3u8
+#EXTINF:-1 group-title="卫视",康巴卫视
+http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 #EXTINF:-1 ,阿牛财经Aniu TV
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 ,CGTN 英语
@@ -281,7 +214,7 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",彭博财经欧洲Bloomberg TV Europe (720p)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/YGdDVAQ.jpg",Boston 25 News (WFXT) (720p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/YGdDVAQ.jpg",波士顿Boston 25 News (WFXT) (720p)
 https://d2dy6pkj44n6e7.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10020_27d61a9c-67b2-4d7c-9486-626a6a071467_LE/in/cmg-wftxtv-hls-v3/live.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/lhjj94a.png",儿童·Brat TV (1080p)
 https://brat-samsung-us.amagi.tv/playlist.m3u8
@@ -327,71 +260,69 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Music" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg",Pluto TV VEVO音乐台雷鬼嘻哈 Reggeaton & Trap (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/tLNvGbt.png",美国广播公司ABC 2 Atlanta GA (WSB-TV) (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/tLNvGbt.png",美国广播公司 亚特兰大乔治亚州ABC 2 Atlanta GA (WSB-TV) (720p)
 https://wsb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec7509821af343da7fe7c3_wsb-live/12c84bd8-1f84-4a65-b6b7-ce6a8c1418b5/0.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png",ABC 2 Baton Rouge LA (WBRZ) (720p) [Not 24/7]
+#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png",ABC 2 Baton Rouge LA 路易斯安那州巴吞鲁日 (WBRZ) (720p) [Not 24/7]
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/svfSv3O.jpg",ABC 3 Corpus Christi TX (KIII) (1080p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/svfSv3O.jpg",ABC 3 Corpus Christi TX 科珀斯克里斯蒂得克萨斯州 (1080p)
 https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/4iEFQjd.png",ABC 4 Pittsburg PA (WTAE) (720p)
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4iEFQjd.png",ABC 4 Pittsburg PA ·匹兹堡 宾夕法尼亚州(WTAE) (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/8vXRrRe.jpg",ABC 4 Seattle WA (KOMO-TV) (720p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/8vXRrRe.jpg",ABC 4 Seattle WA 西雅图 华盛顿州(KOMO-TV) (720p)
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1",ABC 5 Cleveland OH (WEWS-TV) (1080p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1",ABC 5 Cleveland OH (WEWS-TV)克利夫兰市 俄亥俄州  (1080p)
 https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/VCH35gk.png",ABC 5 Cleveland OH (WEWS-TV) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/VCH35gk.png",ABC 5 Cleveland  克利夫兰市 俄亥俄州  (WEWS-TV) (1080p) [Not 24/7]
 https://wews-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6019eb7b342c731b5409c872_wews-live/8d8d2802-5dff-4a78-9a88-3e39925dc2eb/0.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/1jA3nKg.jpg",ABC 5 Des Moines IA (WOI) (1080p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/1jA3nKg.jpg",ABC 5 Des Moines IA 德梅因 爱荷华州 (WOI) (1080p)
 https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/yxEbZqn.jpg",ABC 5 Oklahoma City OK (KOCO) (720p)
+#EXTINF:-1  tvg-logo="https://i.imgur.com/yxEbZqn.jpg",ABC 5 Oklahoma City OK 俄克拉荷马城 (KOCO) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eelz8kT.png",ABC 5 Right Now | Great Falls | Helena MT (KFBB-TV) (720p) [Not 24/7]
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eelz8kT.png",ABC 5 Right Now | Great Falls | Helena MT大瀑布海伦那 蒙大拿州 (KFBB-TV) (720p) [Not 24/7]
 https://kfbb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9b05e1bdb905c0636aaa2_kfbb-live/d041b5d9-5786-497e-83fc-dc60c9d17d28/1.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/JExsI09.png",ABC 7 Denver CO (KMGH) (720p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/JExsI09.png",ABC 7 Denver CO 丹佛 科罗拉多州(KMGH) (720p)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MIVPvXa.png",ABC 7 Denver CO (WMGH-TV) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MIVPvXa.png",ABC 7 Denver CO丹佛 科罗拉多州 (WMGH-TV) (1080p) [Not 24/7]
 https://kmgh-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ac1ac9ac0d4b0b9306bb13_kmgh-live/e34adc98-d22c-4041-b839-3a61c621718d/0.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/J9fH2sG.png",ABC 7 Detroit MI (WXYZ-TV) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/J9fH2sG.png",ABC 7 Detroit MI 底特律 密西根州(WXYZ-TV) (1080p) [Not 24/7]
 https://wxyz-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ae91960fc0ab60b432e002_epg-wxyz/909fd6c5-ec37-4fc5-a760-7324bb1053d4/0.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/8sQ5mfL.png",ABC 7 Detroit MI (WXYZ-TV) (720p) [Not 24/7]
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/8sQ5mfL.png",ABC 7 Detroit MI底特律 密西根州 (WXYZ-TV) (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://imgur.com/nKAUCLF.jpg",ABC 7 Los Angeles CA (KABC-TV) (720p)
+#EXTINF:-1 group-title="News" tvg-logo="https://imgur.com/nKAUCLF.jpg",ABC 7 Los Angeles CA 洛杉矶 加利福尼亚(KABC-TV) (720p)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCwatch.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/BuO1yHQ.png",ABC 7 Omaha NE (KETV) (720p) [Not 24/7]
+#EXTINF:-1  tvg-logo="https://i.imgur.com/BuO1yHQ.png",ABC 7 Omaha NE 奥马哈 内布拉斯加州(KETV) (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/LttuGfq.png",ABC 7 Washington DC (WJLA) (720p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/LttuGfq.png",ABC 7 Washington DC 华盛顿特区(WJLA) (720p)
 https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/CZZBTGv.jpg",ABC 8 Davenport IA (WQAD) (1080p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/CZZBTGv.jpg",ABC 8 Davenport IA 爱荷华州 达文波特(WQAD) (1080p)
 https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/7forojc.jpg",ABC 9 Charlotte NC (WSOC-TV) (720p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/7forojc.jpg",ABC 9 Charlotte NC 夏洛特 北卡罗莱纳(WSOC-TV) (720p)
 https://wsoc-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec767ccf811b28ab4b5178_wsoc-live/fc31136d-53d2-40ce-bf5c-968151104189/0.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/DCBHkiP.jpg",ABC 9 Kansas City MO (KMBC-TV) (720p)
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/DCBHkiP.jpg",ABC 9 Kansas City MO堪萨斯 城密苏里州 (KMBC-TV) (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/6oNx5F0.png",ABC 9 Manchester NH (WMUR-TV) (720p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/6oNx5F0.png",ABC 9 Manchester NH曼彻斯特 新罕布什尔州 (WMUR-TV) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-square.jpg",ABC 9 Orlando FL (WFTV) (540p)
 https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/2TYoO5j.png",ABC 9 Orlando FL (WFTV-TV) (720p)
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/2TYoO5j.png",ABC 9 Orlando FL 奥兰多 佛罗里达州 (WFTV-TV) (720p)
 https://wftv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec6c88697fde61b473b215_wftv-live/02d33bc1-916f-49a6-b410-0cf80a00f52b/0.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/aqxCgyG.jpg",ABC 10 Sacramento CA (KXTV) (1080p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/aqxCgyG.jpg",ABC 10 Sacramento CA 萨克拉门托 加州首府 (KXTV) (1080p)
 https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/1j1Hx75.png",ABC 10 San Diego CA (KGTV) (720p) [Not 24/7]
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/1j1Hx75.png",ABC 10 San Diego CA圣地亚哥 加利福尼亚 (KGTV) (720p) [Not 24/7]
 https://kgtv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_608c3eab42d73848377823a0_kgtv-live/64a7b248-d0ab-4bb0-ac0a-241cbec4c23a/0.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/eapvJpP.jpg",ABC 13 Grand Rapids MI (WZZM) (1080p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/eapvJpP.jpg",ABC 13 Grand Rapids MI大急流城 密歇根州 (WZZM) (1080p)
 https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/QbkW7zY.png",ABC 13 Las Vegas NV (KTNV) (720p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/QbkW7zY.png",ABC 13 Las Vegas NV 内华达州 拉斯维加斯 (KTNV) (720p)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png",ABC 15 Phoenix AZ (KNXV-TV) (720p)
-https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/SBiEXzP.png",ABC 15 Phoenix AZ (KNXV-TV) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/SBiEXzP.png",ABC 15 Phoenix AZ 凤凰城 亚利桑那州(KNXV-TV) (1080p) [Not 24/7]
 https://d1x9zfzf9roioy.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60998e4a5b0b051955170c4e_knxv-live/b7ba6371-db64-4797-9ff9-0a6e3f3c2ff1/0.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/1s3Euh5.jpg",ABC 16 Wilkes Barre PA (WNEP) (1080p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/1s3Euh5.jpg",ABC 16 Wilkes Barre PA 威尔克斯 宾夕法尼亚州(WNEP) (1080p)
 https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/nLBEhIx.jpg",ABC 24 Austin TX (KVUE) (1080p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/nLBEhIx.jpg",ABC 24 Austin TX 奥斯汀 德克萨斯州(KVUE) (1080p)
 https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/ukf1WZ0.jpg",ABC 24 Memphis TN (WATN-TV) (1080p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/ukf1WZ0.jpg",ABC 24 Memphis TN 孟菲斯 田纳西州 (WATN-TV) (1080p)
 https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/vws7p6H.png",ABC-FOX 18 Butte MT (KWYB-TV) (720p) [Not 24/7]
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/vws7p6H.png",ABC-FOX 18 Butte MT 比尤特 蒙大拿州 (KWYB-TV) (720p) [Not 24/7]
 https://kwyb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9af3601a42f4980067072_kwyb-live/44bb663d-febe-44d9-9064-018ae5ccb94d/1.m3u8
 
 
