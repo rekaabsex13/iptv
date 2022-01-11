@@ -285,8 +285,6 @@ http://news1.live14.com/stream/news1.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",AT-X日本动画片
 https://sub2.neetball.net/live/neet.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,日本基督教·CGNTV
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 ,韩国英语Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 ,朝鲜中央频道
@@ -309,7 +307,7 @@ http://167.99.65.12:1935/live/ngrp:myStream_all/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,葡萄牙语澳門Macau
 http://61.244.22.5/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 ,澳視卫星
+#EXTINF:-1 ,澳門澳視卫星
 http://61.244.22.5/ch3/ch3.live/chunklist_w30461384.m3u8
 #EXTINF:-1 ,美国消费者新闻与商业频道CNBC Indonesia 1
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby:iptvcat.com
@@ -331,9 +329,7 @@ https://livevideo01.abc10.com/hls/live/2014547/newsc.M3U8
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/eOvzf3d.png",新教3ABN Kids (720p)
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 基督christ CTN
-http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
-#EXTINF:-1 ,彭博财经(美)Bloomberg TV
+#EXTINF:-1 ,彭博财经Bloomberg TV
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/YGdDVAQ.jpg",波士顿Boston 25 News (WFXT) (720p)
 https://d2dy6pkj44n6e7.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10020_27d61a9c-67b2-4d7c-9486-626a6a071467_LE/in/cmg-wftxtv-hls-v3/live.m3u8
@@ -350,15 +346,24 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/TXamgdB.png",娱乐和名人新闻Entertainment Tonight 新闻 (1080p)
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="News",CNN 美国有线电视新闻网
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eEqyFBX.jpg",Newsy (1080p)
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 ,美国有线电视新闻网CNN International (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752",扭腰本地新闻News 12 New York (1080p)
 https://news12-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f84951fcd58b17880350243_news12-live/a49c22ce-bd31-4cba-afa5-5da8a9cc060b/1.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eEqyFBX.jpg",新闻懒人包Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",美国CBN News (1080p)
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
-
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/hc5a1YP.png",福克斯新闻FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kDqyJcP.jpg",哥伦比亚广播公司CBSN (720p)
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 ,全美广播公司NBC News Now (1080p)
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",red门儿 红牛Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/f4Bec0i.png",西班牙语Estrella News (1080p)
 https://estrellanews-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.unored247.com/bill/templates/smartlinehost/html/images/extrema_client_logo.png",西班牙语Extrema TV (1080p)
@@ -566,9 +571,6 @@ https://livevideo01.newswest9.com/hls/live/2017380/newscasts/live.m3u8
 https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="KBMT.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/boVFg14.jpg" group-title="Local",12 News Beaumont TX 博蒙特新闻(KBMT) (1080p)
 https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="Boblepongeplus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Teb0Ty0.png" group-title="Kids",好胃口Bob l'éponge+ (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609a33d06972da0007748ecf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc9fd0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=195dd54b-932b-4f28-be70-7e736585335a
-
 #EXTINF:-1 ,美国鸽子电视Dove Channel (1080p)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 
@@ -657,8 +659,6 @@ https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d18ac345cf61eb60b5895",Loupe Art (720p)
 https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Ot9wh52.png",Mad Dog and Merrill 中西部烧烤电视节目(540p)
-https://rpn1.bozztv.com/36bay2/gusa-mwg/playlist.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://millenniumtv24.com/wp-content/uploads/2020/07/logo-new-24-02.png",南亚人民Millennium TV 24 (1080p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://millenniumtv.org/wp-content/uploads/2021/06/Icon-512.png",南亚人民Millennium TV USA (1080p) [Not 24/7]
@@ -671,10 +671,7 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png",NBC News Now (1080p)
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752",News 12 New York (1080p)
-https://livestream.chdrstatic.com/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f482606a67962a0dd5e/localnow/n12nyLocalNow/news12newyork/primary/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eEqyFBX.jpg",Newsy (1080p)
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+
 
 
 
@@ -730,8 +727,7 @@ https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/yVZAI7F.png",美国Adult Swim Your Pretty Face Is Going To Hell (1080p) （地理封锁）
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 #EXTINF:-1 ,俄罗斯莫斯科教育Московский образовательный
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 ,俄罗斯IGITV蓝光
@@ -776,8 +772,6 @@ http://stream0.tv41.ru/live.m3u8
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 #EXTINF:-1 ,俄罗斯尤格拉Югра
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-#EXTINF:-1 ,俄罗斯Almaty TV
-http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1 ,俄罗斯ТВTV蓝光
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 #EXTINF:-1 ,俄罗斯欧亚大频道Евразия (Орск)
@@ -858,8 +852,6 @@ http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/ind
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1 ,乌克兰克里米亚ATR
 http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:-1 ,乌克兰东正教Надія
-http://stream.hope.ua/hopeua/live_1/playlist.m3u8
 
 #EXTINF:-1 ,乌克兰旅游BamBarBia TV
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
@@ -966,10 +958,6 @@ https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1,欧洲联合法语TVM3 (1080p)
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 tvg-id="AlpedHuezTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="",Alpe d’Huez TV滑雪阿尔卑斯电视 (720p)
-https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
-#EXTINF:-1 ,法国Pluto TV Animaux动物
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1 ,法国BipTV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id="M6International.fr" tvg-country="FR;AD;BE;LU;MC;CH" tvg-language="French" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Entertainment",法国娱乐M6 International (1080p)
