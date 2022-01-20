@@ -3,6 +3,8 @@
 http://111.11.121.184:6610/030000001001/hdcctv01/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV2
 http://111.11.121.184:6610/030000001001/cctv-2/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV2HD
+http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
 #EXTINF:-1 ,CCTV3HD
 http://111.11.121.184:6610/030000001001/cctv-3/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV3HD
@@ -39,6 +41,8 @@ http://111.11.121.184:6610/030000001001/cctv-11/1.m3u8?channel-id=ystenlive
 http://111.11.121.184:6610/030000001001/cctv-12/1.m3u8?channel-id=ystenlive
 #EXTINF:-1,CCTV12
 http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1,CCTV12江苏
+http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
 #EXTINF:-1 ,CCTV13HD
 http://111.11.121.184:6610/030000001001/cctv-13/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV14HD
@@ -60,11 +64,11 @@ http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
 #EXTINF:-1,CCTV风云剧场
 http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
 #EXTINF:-1,CCTV世界地理
-http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
-#EXTINF:-1 ,CNC中文
-http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-#EXTINF:-1 ,CNC英文
-http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
+http://117.148.179.176/TVOD/88888888/224/3221231546/index.m3u8
+#EXTINF:-1 ,CCTV16 4K 50FPS
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 ,CCTV16 4K
+http://223.110.242.33/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 ,欢笑剧场4K
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1 group-title="央视",中央新影-老故事
