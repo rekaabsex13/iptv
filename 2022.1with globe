@@ -37,6 +37,8 @@ http://111.11.121.184:6610/030000001001/cctv-10/1.m3u8?channel-id=ystenlive
 http://111.11.121.184:6610/030000001001/cctv-11/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV12HD
 http://111.11.121.184:6610/030000001001/cctv-12/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,CCTV12
+http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
 #EXTINF:-1 ,CCTV13HD
 http://111.11.121.184:6610/030000001001/cctv-13/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV14HD
@@ -49,6 +51,16 @@ http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=
 http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,纯享4K
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1,CCTV风云音乐
+http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
+#EXTINF:-1,CCTV风云足球
+http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1,CCTV央视文化精品
+http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
+#EXTINF:-1,CCTV风云剧场
+http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1,CCTV世界地理
+http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
 #EXTINF:-1 ,CNC中文
 http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 #EXTINF:-1 ,CNC英文
@@ -253,6 +265,12 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 ,康巴卫视
 http://scgctvshow.sctv.com/sdlive/kangba/1.m3u8
+#EXTINF:-1, 翡翠台(第2声道简体)
+http://iptv.tvfix.org/hls/jade2.m3u8 
+#EXTINF:-1,香港卫视
+https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
+#EXTINF:-1,TAIWAN寰宇新闻
+http://fuck.ke22.aihost69.top/play/63.m3u8 
 #EXTINF:-1 ,CGTN 英语
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 ,CGTN 阿拉伯语Arabic
@@ -275,18 +293,32 @@ https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="TVBRICSEnglish.ru" tvg-country="INT" tvg-language="Russian;English" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",俄罗斯金砖国家电视台TV BRICS English (1080p)
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+
+#EXTINF:-1,テレビ東京
+http://203.162.235.41:16908
+#EXTINF:-1,富士电视フジテレビ
+http://203.162.235.41:16904
 #EXTINF:-1 ,日本NTV NEWS24
 https://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 ,日本英语NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 ,泰国ASTV News 1 (1080p)
-http://news1.live14.com/stream/news1.m3u8
+
 #EXTINF:-1 ,日本NHK汉语字幕
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",AT-X日本动画片
 https://sub2.neetball.net/live/neet.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,韩国英语Arirang
+#EXTINF:-1,韩国英语Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,韩国 대전방송SBS 大田广播
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1,韩国KBC 광주방송(SBS 光州)
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1,韩国歌谣TV가요TV
+http://gayotv.net:1935/live/gayotv/playlist.m3u8
+#EXTINF:-1,韩国丽水MBC脱口秀여수MBC(MBC Yeosu)
+https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+#EXTINF:-1,韩国选举广播선거방송
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 ,朝鲜中央频道
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 ,印度尼西亚BeritaSatu
@@ -303,6 +335,8 @@ http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 ,柬埔寨高棉语Fresh News TV (720p)
 http://167.99.65.12:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 ,泰国ASTV News 1 (1080p)
+http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 ,新加坡CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,葡萄牙语澳門Macau
