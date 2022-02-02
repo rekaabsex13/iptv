@@ -18,14 +18,11 @@ http://111.11.121.184:6610/030000001001/cctv-4/1.m3u8?channel-id=ystenlive
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2_hd/index.m3u8
 #EXTINF:-1 ,CCTV-4中文国际美洲
 https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
-#EXTINF:-1 ,CCTV5体育HD
-http://111.11.121.184:6610/030000001001/cctv-5/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 ,CCTV5+体育赛事HD
-http://111.11.121.184:6610/030000001001/hdcctv05plus/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 ,CCTV6电影HD
-http://111.11.121.184:6610/030000001001/cctv-6/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 ,CCTV6电影SD
-http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv6/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV1综合SD
+http://111.11.121.184:6610/030000001001/hdcctv01/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV-1HD综合
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1A5gXy7m59YoE1AMvcRYl8Pvf6NHAGt8pY%2F1XkpmVDXg%3D%3D%3A20180910182102%2C60D21CD359DA%2C124.129.96.17%2C20180910182102%2C10000100000000050000000002171815%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+
 #EXTINF:-1 ,CCTV7军事SD
 http://111.11.121.184:6610/030000001001/cctv-7/1.m3u8?channel-id=ystenlive
 #EXTINF:-1,CCTV-7军事HD
@@ -198,16 +195,13 @@ https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
 #EXTINF:-1 group-title="卫视",东方卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1 group-title="卫视",北京卫视HD
-http://39.134.68.168:6610/PLTV/88888888/224/3221226064/index.m3u8?
+
 #EXTINF:-1 group-title="卫视",天津卫视HD
 http://ott.js.chinamobile.com/PLTV/4/224/3221227741/index.m3u8
-#EXTINF:-1 group-title="卫视",山东卫视HD
-http://ott.js.chinamobile.com/PLTV/4/224/3221227671/index.m3u8
+
 #EXTINF:-1 group-title="卫视",湖北卫视HD
 http://ott.js.chinamobile.com/PLTV/4/224/3221227665/index.m3u8
-#EXTINF:-1 group-title="卫视",黑龙江卫视HD
-http://39.134.68.168:6610/PLTV/88888888/224/3221226014/index.m3u8?
+
 #EXTINF:-1 group-title="卫视",河北卫视HD
 http://ott.js.chinamobile.com/PLTV/4/224/3221228106/index.m3u8
 #EXTINF:-1 group-title="卫视",辽宁卫视HD
@@ -220,30 +214,19 @@ http://ott.js.chinamobile.com/PLTV/4/224/3221227738/index.m3u8
 http://ott.js.chinamobile.com/PLTV/4/224/3221227729/index.m3u8
 #EXTINF:-1 group-title="卫视",四川卫视HD
 http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
-#EXTINF:-1 group-title="卫视",云南卫视HD
-http://39.130.202.115:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
-#EXTINF:-1 group-title="卫视",河南卫视HD
-http://39.134.65.162/PLTV/88888888/224/3221225890/1.m3u8
+
 
 #EXTINF:-1 group-title="卫视",贵州卫视HD
 http://39.134.65.179/PLTV/88888888/224/3221225888/1.m3u8
-#EXTINF:-1 group-title="卫视",吉林卫视HD
-http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221227163/index.m3u8
-#EXTINF:-1 group-title="卫视",海南卫视HD
-http://39.134.68.168:6610/PLTV/88888888/224/3221226102/index.m3u8?
-#EXTINF:-1 group-title="卫视",甘肃卫视HD
-http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8
+
 #EXTINF:-1 group-title="卫视",厦门卫视HD
 http://223.110.245.158/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
 #EXTINF:-1 group-title="卫视",山西卫视
 http://39.135.140.227:6610/PLTV/88888888/224/3221225549/2/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 group-title="卫视",西藏卫视
-http://39.134.68.168:6610/PLTV/88888888/224/3221226040/index.m3u8?
 #EXTINF:-1 group-title="卫视",宁夏卫视
 http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?
-#EXTINF:-1 group-title="卫视",兵团卫视
-http://39.134.68.168:6610/PLTV/88888888/224/3221226026/index.m3u8?
+
 #EXTINF:-1 group-title="卫视",三沙卫视
 http://pull2.ssws.tv/live/SswsTV20210803.m3u8
 #EXTINF:-1 group-title="卫视",延边卫视
@@ -256,12 +239,7 @@ https://livealone302.iqilu.com/iqilu/qlpd.m3u8
 https://livealone302.iqilu.com/iqilu/typd.m3u8
 #EXTINF:-1 ,山东生活 高清
 https://livealone302.iqilu.com/iqilu/shpd.m3u8
-#EXTINF:-1 ,北京纪实高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225675/index.m3u8
-#EXTINF:-1 ,北京纪实高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225676/index.m3u8
-#EXTINF:-1 ,湖南卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
+
 #EXTINF:-1 ,湖南卫视高清
 http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
 #EXTINF:-1 ,湖北卫视高清
@@ -282,10 +260,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225654/index.m3u8
 #EXTINF:-1 ,深圳卫视高清
 http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
-#EXTINF:-1 ,深圳卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225700/index.m3u8
-#EXTINF:-1 ,广东卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225701/index.m3u8
+
 #EXTINF:-1 ,安徽卫视高清
 http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
 #EXTINF:-1 ,安徽卫视高清
@@ -308,25 +283,14 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
 #EXTINF:-1 ,天津卫视高清
 http://39.135.138.60:18890/PLTV/88888910/224/3221225698/index.m3u8
-#EXTINF:-1 ,天津卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225739/index.m3u8
+
 #EXTINF:-1 ,辽宁卫视高清
 http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8
 #EXTINF:-1 ,辽宁卫视高清
 http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
-#EXTINF:-1 ,黑龙江卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225736/index.m3u8
-#EXTINF:-1 ,黑龙江卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8
+
 #EXTINF:-1 ,青海卫视高清
 http://live.geermurmt.com/qhws/sd/live.m3u8
-#EXTINF:-1 ,内蒙古卫视高清
-http://117.169.120.140:8080/live/neimenggustv/.m3u8
-#EXTINF:-1 ,甘肃卫视高清
-http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1 ,北京卡酷少儿高清
-http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=
-#EXTINF:-1 ,北京卡酷少儿高清
 http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
 #EXTINF:-1 ,青海卫视
 http://39.135.138.60:18890/PLTV/88888910/224/3221225727/index.m3u8
@@ -352,10 +316,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
 http://scgctvshow.sctv.com/sdlive/kangba/1.m3u8
 
 
-#EXTINF:-1 ,卡塔尔Al Jazeera半岛电视台英语
-https://live-hls-web-aje.getaj.net/AJE/05.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English HD
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="TVBRICSEnglish.ru" tvg-country="INT" tvg-language="Russian;English" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",俄罗斯金砖国家电视台TV BRICS English (1080p)
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 
@@ -4357,161 +4317,4 @@ http://58.20.64.92:9999/tsfile/live/1033_1.m3u8
 http://58.20.64.92:9999/tsfile/live/1044_1.m3u8
 #EXTINF:-1 group-title="网络",IPTV抗战剧场
 http://58.20.64.92:9999/tsfile/live/1032_1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV广东
-http://39.135.138.59:18890/PLTV/88888888/224/3221226185/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV广西
-http://39.135.138.59:18890/PLTV/88888888/224/3221226186/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV吉林
-http://39.135.138.59:18890/PLTV/88888888/224/3221226189/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV江西
-http://39.135.138.59:18890/PLTV/88888888/224/3221225979/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV四川
-http://39.135.138.59:18890/PLTV/88888888/224/3221226187/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV山东
-http://39.135.138.59:18890/PLTV/88888888/224/3221226184/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV云南
-http://39.135.138.59:18890/PLTV/88888888/224/3221226188/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV黑龙江
-http://39.135.138.59:18890/PLTV/88888888/224/3221226192/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV爱情喜剧
-http://39.135.138.59:18890/PLTV/88888888/224/3221225748/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV超级电影
-http://39.134.65.208/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV超级体育
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV超级综艺
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV潮妈辣婆
-http://39.135.138.59:18890/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV东北热剧
-http://39.134.65.175/PLTV/88888888/224/3221225679/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV动作电影
-http://223.110.243.219:80/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV古装剧场
-http://39.135.138.59:18890/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV欢乐剧场
-http://39.134.65.175/PLTV/88888888/224/3221225682/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV怡伴健康
-http://39.135.138.59:18890/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV军旅剧场
-http://39.135.138.59:18890/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV精品大剧
-http://39.135.138.59:18890/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV精品纪录
-http://39.135.138.59:18890/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV精品体育
-http://39.135.138.59:18890/PLTV/88888888/224/3221225709/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV金牌综艺
-http://39.135.138.59:18890/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV军事评论
-http://39.135.138.59:18890/PLTV/88888888/224/3221225757/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV惊悚悬疑
-http://39.135.138.59:18890/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV家庭剧场
-http://39.135.138.59:18890/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV农业致富
-http://39.135.138.59:18890/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV炫舞未来
-http://39.135.138.59:18890/PLTV/88888888/224/3221225707/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV中国功夫
-http://39.135.138.59:18890/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV超级电视剧
-http://39.134.65.208/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1 group-title="网络",爱上4K
-http://39.134.19.4/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
-#EXTINF:-1 group-title="网络",IPTV8+
-http://39.134.39.38/PLTV/88888888/224/3221226271/index.m3u8
-#EXTINF:-1 group-title="IHOT",IHOT爱都市
-http://39.134.134.85/000000001000/6000000006000080630/1.m3u8
-#EXTINF:-1 group-title="IHOT",IHOT爱谍战
-http://39.134.134.85/000000001000/6000000006000070630/1.m3u8
-#EXTINF:-1 group-title="IHOT",IHOT爱家庭
-http://39.134.134.85/000000001000/6000000006000090630/1.m3u8
-#EXTINF:-1 group-title="IHOT",IHOT爱青春
-http://39.134.134.85/000000001000/6000000006000100630/1.m3u8
-#EXTINF:-1 group-title="IHOT",IHOT爱奇谈
-http://39.134.134.85/000000001000/6000000006000270630/1.m3u8
-#EXTINF:-1 group-title="虎牙",四阿哥九子夺嫡
-http://zzy789.xyz/douyu1.php?id=4944033
-#EXTINF:-1 group-title="虎牙",女神金影院
-http://zzy789.xyz/douyu1.php?id=747764
-#EXTINF:-1 group-title="虎牙",陈翔六点半
-http://121.51.14.14/tx.hls.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus_2000.m3u8
-#EXTINF:-1 group-title="虎牙",埋堆堆
-http://121.51.14.14/tx.hls.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",超模大秀
-http://121.51.14.14/tx.hls.huya.com/src/1099531740021-1099531740021-86381434524139520-2199063603498-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",林正英
-http://121.51.14.14/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",冯小刚
-http://121.51.14.14/tx.hls.huya.com/src/1423782077-1423782077-6115097457345953792-2847687610-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",洪金宝
-http://121.51.14.14/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",云游故宫
-http://121.51.14.14/tx.hls.huya.com/src/1099531728285-1099531728285-86331028787953664-2199063580026-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",庆余年
-http://121.51.14.14/tx.hls.huya.com/huyalive/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",钢铁侠
-http://121.51.14.14/tx.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",埋堆堆-1
-http://121.51.14.14/tx.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",埋堆堆-2
-http://121.51.14.14/tx.hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",埋堆堆-3
-http://121.51.14.14/tx.hls.huya.com/src/1199561219773-1199561219773-5434611909938642944-2399122563002-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",黑帮大片
-http://121.51.14.14/tx.hls.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",李连杰
-http://121.51.14.14/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",包青天
-http://121.51.14.14/tx.hls.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",元芳到底看不看
-http://zzy789.xyz/douyu1.php?id=6027991
-#EXTINF:-1 group-title="虎牙",猫和老鼠
-http://121.51.14.14/tx.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",我来啦，我来啦
-http://zzy789.xyz/douyu1.php?id=8252036
-#EXTINF:-1 group-title="虎牙",粤语电影
-http://zzy789.xyz/douyu1.php?id=6566671
-#EXTINF:-1 group-title="虎牙",午夜故事
-http://zzy789.xyz/douyu1.php?id=8722254
-#EXTINF:-1 group-title="虎牙",刘德华
-http://121.51.14.14/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",吴京
-http://121.51.14.14/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",历年贺岁档
-http://121.51.14.14/tx.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus_2000.m3u8
-#EXTINF:-1 group-title="虎牙",五福星
-http://121.51.14.14/tx.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",古墓系列
-http://121.51.14.14/tx.hls.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",喜剧电影
-http://121.51.14.14/tx.hls.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",徐峥
-http://121.51.14.14/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",警匪电影
-http://121.51.14.14/tx.hls.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",许氏三杰
-http://121.51.14.14/tx.hls.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",灾难大片
-http://121.51.14.14/tx.hls.huya.com/src/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",谁说女子不如男
-http://121.51.14.14/tx.hls.huya.com/src/1099531728957-1099531728957-86333915005976576-2199063581370-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙",高智商犯罪
-http://121.51.14.14/tx.hls.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",中国功夫
-http://121.51.14.14/tx.hls.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",黄渤
-http://121.51.14.14/tx.hls.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",动作大片
-http://121.51.14.14/tx.hls.huya.com/src/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",漫威电影
-http://121.51.14.14/tx.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",死神来了
-http://121.51.14.14/tx.hls.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",生化危机
-http://121.51.14.14/tx.hls.huya.com/src/1099531752748-1099531752748-86436096572915712-2199063628952-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",怪兽系列
-http://121.51.14.14/tx.hls.huya.com/src/1099531752749-1099531752749-86436100867883008-2199063628954-10057-A-0-1_2000.m3u8
-#EXTINF:-1 group-title="虎牙",三国演义
-http://121.51.14.14/tx.hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8
+.51.14.14/tx.hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8
