@@ -3,7 +3,6 @@
 http://111.11.121.184:6610/030000001001/hdcctv01/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV-1HD综合
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1A5gXy7m59YoE1AMvcRYl8Pvf6NHAGt8pY%2F1XkpmVDXg%3D%3D%3A20180910182102%2C60D21CD359DA%2C124.129.96.17%2C20180910182102%2C10000100000000050000000002171815%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
-
 #EXTINF:-1 ,CCTV2财经SD
 http://111.11.121.184:6610/030000001001/cctv-2/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV2财经HD
@@ -22,7 +21,6 @@ https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
 http://111.11.121.184:6610/030000001001/hdcctv01/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV-1HD综合
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1A5gXy7m59YoE1AMvcRYl8Pvf6NHAGt8pY%2F1XkpmVDXg%3D%3D%3A20180910182102%2C60D21CD359DA%2C124.129.96.17%2C20180910182102%2C10000100000000050000000002171815%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
-
 #EXTINF:-1 ,CCTV7军事SD
 http://111.11.121.184:6610/030000001001/cctv-7/1.m3u8?channel-id=ystenlive
 #EXTINF:-1,CCTV-7军事HD
@@ -35,12 +33,10 @@ http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv8/1.m3u8?channel-id=y
 http://111.11.121.184:6610/030000001001/cctv-news/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV9记录HD
 http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-
 #EXTINF:-1 ,CCTV10科教SD
 http://111.11.121.184:6610/030000001001/cctv-10/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV10科教HD
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
-
 #EXTINF:-1 ,CCTV11戏剧
 http://111.11.121.184:6610/030000001001/cctv-11/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV11戏剧HD
@@ -87,7 +83,6 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/index.m3u8?servicet
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=ZwCOJns1uzKzHdCSyzLSm8nvO5XfklxU4ALE11OYlPn7KpiO%2BzRtPvdn7jWr%2BUvOl1t5Pz%2FLH0Ho4jRubNvlOAEwaDznuKUPkC3CyyjdipD9NSckJ5QaXY%2FFPOezuTl8D5AnXvGX46kQgpi8snSsXg%3D%3D%3A20190105211308%2C60D21C462F29%2C27.223.154.121%2C20190105211308%2C10000100000000050000000002171849%2CBF70B40FF21E322FB193AF5C0F75666F%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="[高清]央视", CCTV-15[高清]
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225940/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny2aQb%2FEvmX3jJwWQM0KjVthBxMATFvLDs6nqWhqKaSn0A%3D%3D%3A20180910190144%2C60D21CD359DA%2C124.129.96.17%2C20180910190144%2C10000100000000050000000000544555%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
-
 #EXTINF:-1, 北京卫视[高清]
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKdrA6O5TqC3oQgciLHCN+f7jdqT/Yq9bJ5ojBI5xjj1XA==,,END
 #EXTINF:-1,北京新闻[高清]
@@ -192,16 +187,14 @@ http://61.244.22.5/ch2/_definst_/ch2.live/playlist.m3u8
 http://61.244.22.5/ch3/ch3.live/chunklist_w30461384.m3u8
 #EXTINF:-1 ,凤凰网台wan
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-
 #EXTINF:-1 group-title="卫视",东方卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
-
 #EXTINF:-1 group-title="卫视",天津卫视HD
 http://ott.js.chinamobile.com/PLTV/4/224/3221227741/index.m3u8
-
 #EXTINF:-1 group-title="卫视",湖北卫视HD
 http://ott.js.chinamobile.com/PLTV/4/224/3221227665/index.m3u8
-
+#EXTINF:-1, 北京卫视[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKdrA6O5TqC3oQgciLHCN+f7jdqT/Yq9bJ5ojBI5xjj1XA==,,END
 #EXTINF:-1 group-title="卫视",河北卫视HD
 http://ott.js.chinamobile.com/PLTV/4/224/3221228106/index.m3u8
 #EXTINF:-1 group-title="卫视",辽宁卫视HD
