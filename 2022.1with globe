@@ -153,7 +153,7 @@ https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
 http://61.244.22.5/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 ,澳門澳視卫星
 http://61.244.22.5/ch3/ch3.live/chunklist_w30461384.m3u8
-#EXTINF:-1 ,凤凰网台wan
+#EXTINF:-1 ,凤凰网
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="卫视",东方卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
@@ -408,14 +408,21 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e290958
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,全美广播公司NBC News Now (1080p)
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",red门儿 红牛Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/f4Bec0i.png",西班牙语Estrella News (1080p)
 https://estrellanews-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.unored247.com/bill/templates/smartlinehost/html/images/extrema_client_logo.png",西班牙语Extrema TV (1080p)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4PiLKrm.png",西班牙语Estrella TV East (1080p)
 https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/snIU1UA.jpg",墨西哥安艺新闻AMX Noticias (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YDp8MlN.png",Canal 44 Chihuahua 墨西哥奇瓦瓦新闻频道(720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true",西班牙语电影Runtime (Mexico) (1080p)
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cooking" tvg-logo="https://i.imgur.com/8s6aRwv.png",烹饪Tastemade en Español (1080p)
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,美国音乐Pluto TV MTV Biggest Pop (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fd1a252d35decbc4080c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=870&terminate=false&userId=
 #EXTINF:-1 group-title="Music" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png",Pluto TV 流行乐Vevo Pop (1080p)
@@ -453,10 +460,6 @@ https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eelz8kT.png",ABC 5 Right Now | Great Falls | Helena MT大瀑布海伦那 蒙大拿州 (KFBB-TV) (720p) [Not 24/7]
 https://kfbb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9b05e1bdb905c0636aaa2_kfbb-live/d041b5d9-5786-497e-83fc-dc60c9d17d28/1.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/J9fH2sG.png",ABC 7 Detroit MI 底特律 密西根州(WXYZ-TV) (1080p) [Not 24/7]
-https://wxyz-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ae91960fc0ab60b432e002_epg-wxyz/909fd6c5-ec37-4fc5-a760-7324bb1053d4/0.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/8sQ5mfL.png",ABC 7 Detroit MI底特律 密西根州 (WXYZ-TV) (720p) [Not 24/7]
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://imgur.com/nKAUCLF.jpg",ABC 7 Los Angeles CA 洛杉矶 加利福尼亚(KABC-TV) (720p)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCwatch.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/BuO1yHQ.png",ABC 7 Omaha NE 奥马哈 内布拉斯加州(KETV) (720p) [Not 24/7]
@@ -575,9 +578,14 @@ https://kndu-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/BMncWbQ.png",NBC 41 Kansas City堪萨斯城 密苏里州 (KSHB-TV) (720p) [Not 24/7]
 https://kshb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60b682c64fcc8c629d172d35_kshb-live/bd89bcf7-e584-44ae-af55-e1f24eaf701f/0.m3u8
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XboGSjX.png",燃料运动频道Fuel TV (1080p)
+https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",红牛运动Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 ,美国鸽子电视Dove Channel (1080p)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1,加拿大法语Canal de l'Assemblée nationale (544p) [Not 24/7]
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/177d227e/playlist.m3u8
 
 #EXTINF:-1 ,加拿大旁遮普BBC Toronto Gaunda Punjab
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
@@ -739,8 +747,10 @@ http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 ,俄罗斯阿斯特拉罕Астрахань 24
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-#EXTINF:-1 ,俄罗斯白罗斯БелРос ТВ
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="Local",符拉迪沃斯托克Губерния 33 (Владимир) (360p)
+https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png",1HD Music Television (1080p) [Not 24/7]
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,俄罗斯阿基兹Архыз 24
 http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:-1 ,俄罗斯伏尔加斯基Волжский Плюс
