@@ -17,10 +17,6 @@ http://111.11.121.184:6610/030000001001/cctv-4/1.m3u8?channel-id=ystenlive
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2_hd/index.m3u8
 #EXTINF:-1 ,CCTV-4中文国际美洲
 https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
-#EXTINF:-1 ,CCTV1综合SD
-http://111.11.121.184:6610/030000001001/hdcctv01/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 ,CCTV-1HD综合
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1A5gXy7m59YoE1AMvcRYl8Pvf6NHAGt8pY%2F1XkpmVDXg%3D%3D%3A20180910182102%2C60D21CD359DA%2C124.129.96.17%2C20180910182102%2C10000100000000050000000002171815%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
 #EXTINF:-1 ,CCTV7军事SD
 http://111.11.121.184:6610/030000001001/cctv-7/1.m3u8?channel-id=ystenlive
 #EXTINF:-1,CCTV-7军事HD
@@ -61,7 +57,7 @@ http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=
 http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 ,CCTV17农业农村HD
 http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 ,纯享4K
+#EXTINF:-1 ,+++++++++++++北京源++++++++++++++++++
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="[高清]央视", CCTV-1[高清]
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1A5gXy7m59YoE1AMvcRYl8Pvf6NHAGt8pY%2F1XkpmVDXg%3D%3D%3A20180910182102%2C60D21CD359DA%2C124.129.96.17%2C20180910182102%2C10000100000000050000000002171815%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
@@ -106,45 +102,13 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicet
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京", 北京IPTV淘娱乐[高清]
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京", 北京IPTV 4K超高清[高清]
-#EXTINF:-1 group-title="央视",CCTV-1HD
-http://39.134.68.169:6610/PLTV/88888888/224/3221226016/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-2HD
-http://111.20.106.16:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 group-title="央视",CCTV-3HD
-http://39.134.68.169:6610/PLTV/88888888/224/3221226021/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-4HD
-http://111.20.106.16:6610/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 group-title="央视",CCTV-5HD
-http://39.134.68.169:6610/PLTV/88888888/224/3221226019/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-5+HD
-http://iptv.tvfix.org/hls/cctv5phd.m3u8
-#EXTINF:-1 group-title="央视",CCTV-6HD
-http://iptv.tvfix.org/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV-7HD
-http://iptv.tvfix.org/hls/cctv7hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV-8HD
-http://39.134.68.169:6610/PLTV/88888888/224/3221226008/index.m3u8?
-#EXTINF:-1 group-title="央视",CCTV-9HD
-http://iptv.tvfix.org/hls/cctv9hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV-10HD
-http://iptv.tvfix.org/hls/cctv10hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV-11HD
-http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-12HD
-http://iptv.tvfix.org/hls/cctv12hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13HD
-http://iptv.tvfix.org/hls/cctv13hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV-14HD
-http://iptv.tvfix.org/hls/cctv14hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV-15HD
-http://iptv.tvfix.org/hls/cctv15hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV-16奥林匹克
-http://iptv.tvfix.org/hls/cctv16hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV-17农业农村
-http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="中国央视", CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="中国央视", CHC家庭电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="中国央视", CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 
-#EXTINF:-1 ,欢笑剧场4K
-http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV世界地理
 http://117.148.179.156/TVOD/88888888/224/3221231537/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-央视台球
@@ -177,8 +141,6 @@ http://ott.js.chinamobile.com/PLTV/4/224/3221227018/index.m3u8
 http://ott.js.chinamobile.com/PLTV/4/224/3221227657/index.m3u8
 #EXTINF:-1 ,------------------卫视---------------
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
-#EXTINF:-1,香港翡翠台(第2声道简体)
-http://iptv.tvfix.org/hls/jade2.m3u8 
 #EXTINF:-1,香港卫视
 https://al-pull2.hkatv.vip/live/hktv20210929.m3u8 
 #EXTINF:-1 ,葡萄牙语澳門Macau
@@ -301,8 +263,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
 #EXTINF:-1 ,旅游卫视
 http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
-#EXTINF:-1 ,新疆卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 ,西藏卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 ,康巴卫视
@@ -402,12 +362,8 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://news12-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f84951fcd58b17880350243_news12-live/a49c22ce-bd31-4cba-afa5-5da8a9cc060b/1.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eEqyFBX.jpg",新闻懒人包Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",美国CBN News (1080p)
-https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/hc5a1YP.png",福克斯新闻FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kDqyJcP.jpg",哥伦比亚广播公司CBSN (720p)
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 ,全美广播公司NBC News Now (1080p)
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",red门儿 红牛Red Bull TV (1080p)
@@ -449,9 +405,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,C
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1",ABC 5 Cleveland OH (WEWS-TV)克利夫兰市 俄亥俄州  (1080p)
 https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/VCH35gk.png",ABC 5 Cleveland  克利夫兰市 俄亥俄州  (WEWS-TV) (1080p) [Not 24/7]
-https://wews-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6019eb7b342c731b5409c872_wews-live/8d8d2802-5dff-4a78-9a88-3e39925dc2eb/0.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/1jA3nKg.jpg",ABC 5 Des Moines IA 德梅因 爱荷华州 (WOI) (1080p)
+\#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/1jA3nKg.jpg",ABC 5 Des Moines IA 德梅因 爱荷华州 (WOI) (1080p)
 https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/yxEbZqn.jpg",ABC 5 Oklahoma City OK 俄克拉荷马城 (KOCO) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
@@ -569,56 +523,17 @@ http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/m4MZTtj.jpg",NBC 2 Buffalo NY纽约州 布法罗 (WGRZ) (1080p)
 https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/7erOEZJ.gif",NBC 5 Cincinnati OH辛辛那提 俄亥俄州 (WLWT) (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/aDqnu8Y.jpg",NBC 5 Seattle WA西雅图 华盛顿州 (KING) (1080p)
-https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/4zQaZBX.jpg",NBC 5 St. Louis MO 密苏里州 圣路易斯(KSDK) (1080p)
-https://livevideo01.ksdk.com/hls/live/2014965/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/dwtqWbI.png",NBC 5 West Palm Beach FL分裂的种子 西棕榈滩 (WPTV-TV) (720p) [Not 24/7]
-https://d2w2eizx69h821.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_609990656eddc37f4b745083_wptv-live/d298beaa-c8a5-4de9-b7fd-d293f4ed479d/0.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/zkkg70O.jpg",NBC 6 College Station TX德克萨斯州 大学站 (KAGS) (1080p)
 https://livevideo01.kagstv.com/hls/live/2016283/newscasts/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/cB1bxJw.jpg",NBC 6 New Orleans LA 新奥尔良 路易斯安那(WDSU) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/l9T46o3.jpg",NBC 6 Waco TX 德克萨斯州 维科(KCEN) (1080p)
-https://livevideo01.kcentv.com/hls/live/2017155/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/2sLPTiM.jpg",NBC 7 Boise ID (KTVB) (1080p)
-https://livevideo01.ktvb.com/hls/live/2014542/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/tekKgXi.jpg",NBC 8 Portland OR 俄勒冈在波特兰(KGW) (1080p)
-https://livevideo01.kgw.com/hls/live/2015506/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/uv82wud.jpg",NBC 9 Denver CO丹佛 科罗拉多州 (KUSA) (1080p)
-https://livevideo01.9news.com/hls/live/2014548/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/mMQoVWG.jpg",NBC 10 Knoxville TN诺克斯维尔田纳西州(WBIR-TV) (1080p)
-https://livevideo01.wbir.com/hls/live/2016515/newscasts/live-2000.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/yR2o6Dw.jpg",NBC 11 Alive Atlanta GA 佐治亚州亚特兰大(WXIA-TV) (1080p)
-https://livevideo01.11alive.com/hls/live/2015499/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/oyLgNR6.jpg",NBC 11 Minneapolis MN明尼阿波利斯明尼苏达州  (KARE) (1080p)
-https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/iud5PUZ.png",NBC 11 Pittsburgh PA (WPXI) (720p)
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/jZ6wfb7.png",NBC 11 Pittsburgh PA (WPXI) (720p)
-https://wpxi-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec734b33fbda22ed1fff54_wpxi-live/ccbdde1e-b076-4373-a12a-61ff453cdc7b/0.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/f1FiXuX.jpg",NBC 12 Phoenix AZ凤凰城 亚利桑那州 (KPNX) (1080p)
-https://livevideo01.12news.com/hls/live/2015501/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/DQK8BrE.jpg",NBC 13 Indianapolis IN印第安纳波利斯 印第安纳州 (WTHR) (1080p)
-https://livevideo01.wthr.com/hls/live/2013835/newscasts/live.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/q6GeuW8.png",NBC 25 Tri-Cities Richland WA 里奇兰市华盛顿州(KNDU) (720p) [Not 24/7]
 https://kndu-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9a3541653bb5d8d5dbb96_kndu-live-1/8a5c1c57-d616-4677-929f-ee80ebbea564/1.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/31cd86c/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F09%2F30%2F6709482a41ef96f6ba6259d6ae66%2Fwgba-geographic-locator-600x200.png",NBC 26 Green Bay WI 威斯康星州格林贝(WGBA) (720p)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/BMncWbQ.png",NBC 41 Kansas City堪萨斯城 密苏里州 (KSHB-TV) (720p) [Not 24/7]
 https://kshb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60b682c64fcc8c629d172d35_kshb-live/bd89bcf7-e584-44ae-af55-e1f24eaf701f/0.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/DJrdp7S.jpg",NBC 207 Bangor Portland ME班戈和波特兰缅因州 (WLBZ) (1080p)
-https://livevideo01.newscentermaine.com/hls/live/2014540/newscasts/live/wcsh.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/KQrtvoo.jpg",NBC / ABC Jacksonville FL杰克逊维尔 佛罗里达州 (WTLV) (1080p)
-https://livevideo01.firstcoastnews.com/hls/live/2014550/newscasts/live.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/qshcBQk.jpg",NBC NewsWest 9 Midland-Odessa TX 米德兰 - 敖德萨，德克萨斯州(KWES) (1080p)
-https://livevideo01.newswest9.com/hls/live/2017380/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="WKYC.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tjlSkyp.jpg" group-title="Local",3 Studios Cleveland OH工作室克利夫兰 (WKYC) (1080p)
-https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="KBMT.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/boVFg14.jpg" group-title="Local",12 News Beaumont TX 博蒙特新闻(KBMT) (1080p)
-https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8
+
 #EXTINF:-1 ,美国鸽子电视Dove Channel (1080p)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 
@@ -802,8 +717,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://185.18.4.16/live/3m/playlist.m3u8
 #EXTINF:-1 ,俄罗斯西伯利亚苏尔古特С1 (Сургут)
 https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:-1 ,俄罗斯斯维尔德洛夫斯克州СГДФ 24 (Свердлов)
-http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8
 #EXTINF:-1 ,俄罗斯纳里昂马尔Север (Нарьян-Мар)
 http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8
 #EXTINF:-1 ,俄罗斯塔塔尔斯坦Татарстан-24
@@ -830,8 +743,6 @@ http://95.67.106.10/hls/nta_ua_low/index.m3u8
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 ,俄罗斯战士tvРатник
 http://online-video.rbc.ru/online/rbctv.m3u8
-#EXTINF:-1 ,俄罗斯笑脸儿童频道Смайлик ТВ
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 ,俄罗斯国家频道·Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 ,俄罗斯自民党ЛДПР ТВ
@@ -872,8 +783,6 @@ http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 ,哈萨克斯坦Atameken Business
 http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
-#EXTINF:-1 ,吉尔吉斯斯坦儿童КТРК Баластан
-http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
 #EXTINF:-1 ,乌克兰音乐М2 (1080p)
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 ,乌克兰音乐M1 (1080p)
@@ -888,8 +797,6 @@ http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
 http://80.91.177.102:1935/live/live1/playlist.m3u8
 #EXTINF:-1 ,乌克兰股评家ЧП.iнфо
 http://109.68.40.67/life/magnolia.m3u8
-#EXTINF:-1 ,乌克兰利佩茨克Липецкое время
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:-1 ,乌克兰健康频道Здоровье (Одесса)奥德萨
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1 ,乌克兰第三数字Третий Цифровой
@@ -905,10 +812,6 @@ http://stream.atr.ua/atr/live/index.m3u8
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1 ,乌克兰杜马斯卡Думская TV
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
-#EXTINF:-1 ,白俄罗斯8 канал (Витебск) (576p) [Not 24/7]
-http://95.46.208.8:26259/nashe
-#EXTINF:-1 ,白俄罗斯Наше ТВ (Витебск) (576p)
-http://95.46.208.8:24433/art
 #EXTINF:-1 ,塞尔维亚Muzzik AMVA 2020 (RS)
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 ,塞尔维亚Muzzik Cafe&Club Serbia (720p)
@@ -982,8 +885,6 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,英国对话阿拉伯语频道Alhiwar TV (1080p)
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 ,英国波斯语BBC Persian (360p)
-http://159.69.58.154/bbc/master.m3u8
 #EXTINF:-1 ,英国波斯语BBC Persian (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 #EXTINF:-1 ,英国全透视有限公司GB News (1080p)
@@ -992,8 +893,6 @@ https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,英国基督教频道God TV UK (720p)
 https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8
-#EXTINF:-1 ,英国伊拉克伊斯兰教频道Iqraa TV (576p)
-http://wowzaprod3-lh.akamaihd.net/i/83372732_1@141298/master.m3u8
 #EXTINF:-1 ,英国伊斯兰教MTA 1 English (1080p)
 https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
 #EXTINF:-1 ,英国伊斯兰教MTA 1 Original (1080p)
@@ -1049,16 +948,6 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 https://live.tv.c.is/n4/index.m3u8
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 ,德国Deutsches Musik Fernsehen
-http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,瑞士法语Canal Alpha Jura (1080p)
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 #EXTINF:-1 ,瑞士法语天气Meteonews (1080p)
@@ -1083,8 +972,6 @@ https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
 #EXTINF:-1 ,阿拉圭ABC TV (720p)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1 ,西班牙语MULTIVISION HD
-http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
 #EXTINF:-1 ,西班牙Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 ,西班牙语基督教·Divine Vision
@@ -1149,8 +1036,6 @@ http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:-1 group-title="News",ABP Majha (720p)
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
-#EXTINF:-1 ,印度印地语Janta TV (1080p)
-https://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1 group-title="Music",印度音乐Music India (360p)
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 #EXTINF:-1 ,印度阿萨姆语News 18 Assam (360p)
