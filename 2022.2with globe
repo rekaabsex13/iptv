@@ -114,13 +114,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="中国央视", CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV世界地理
-http://117.148.179.156/TVOD/88888888/224/3221231537/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-央视台球
-http://117.148.179.160/PLTV/88888888/224/3221231616/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-风云剧场
-http://117.148.179.160/PLTV/88888888/224/3221231604/index.m3u8
 #EXTINF:-1 ,CGTN 英语
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 ,CGTN 阿语عربية
@@ -619,7 +612,8 @@ https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8
 https://t06858-lh.akamaihd.net/i/t06858a_1@719164/master.m3u8
 #EXTINF:-1 group-title="Travel" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/journy.png",旅行Journy (1080p)
 https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8?did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&pid=5f5132df62fe160040f26bc2&ptoken=PLbo_Jw_s1xgoB_1Srgg
-
+#EXTINF:-1 ,明尼苏达州明尼阿波利斯市西北郊西北社区电视台CCX1
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
 
 
 #EXTINF:-1 ,Local Now电视剧 Career Day (720p)
@@ -924,8 +918,7 @@ https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptv
 #EXTINF:-1 ,德国阿尼克斯Anixe HD (720p)
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 ,音乐台MUSIC + (720p)
-https://s02.diazol.hu:10192/hls/stream.m3u8
-#EXTINF:-1 ,德国Bibel TV (720p)
+https://s02.diazol.hu:10192/hls/stream.m3u8#EXTINF:-1 ,德国Bibel TV (720p)
 https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
 #EXTINF:-1 ,德国Bibel TV Impuls (720p)
 https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
@@ -933,8 +926,7 @@ https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3
 http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
 #EXTINF:-1 ,英国阿拉伯语BBC Arabic (540p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
-#EXTINF:-1 ,英国CCX1
-http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 ,英国对话阿拉伯语频道Alhiwar TV (1080p)
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 ,英国波斯语BBC Persian (720p)
