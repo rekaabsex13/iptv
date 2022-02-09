@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1综合SD
 http://111.11.121.184:6610/030000001001/hdcctv01/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏高码8m-CCTV-","江苏8m-CCTV1"
+http://223.110.244.212:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
 #EXTINF:-1 ,CCTV-1HD综合
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1A5gXy7m59YoE1AMvcRYl8Pvf6NHAGt8pY%2F1XkpmVDXg%3D%3D%3A20180910182102%2C60D21CD359DA%2C124.129.96.17%2C20180910182102%2C10000100000000050000000002171815%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
 #EXTINF:-1 ,CCTV2财经SD
@@ -13,17 +15,21 @@ http://111.11.121.184:6610/030000001001/cctv-3/1.m3u8?channel-id=ystenlive
 http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv3/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV4中文国际SD
 http://111.11.121.184:6610/030000001001/cctv-4/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 ,CCTV-4中文国际欧洲
-http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2_hd/index.m3u8
-#EXTINF:-1 ,CCTV-4中文国际美洲
-https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV-4","CCTV-4hd"
+http://39.134.18.82/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226191/index.m3u8
+#EXTINF:-1,CCTV-5 体育
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV6","CCTV6电影"
+http://117.148.179.165/PLTV/88888888/224/3221231724/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV6","CCTV6电影"
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231724/index.m3u8
 #EXTINF:-1 ,CCTV7军事SD
 http://111.11.121.184:6610/030000001001/cctv-7/1.m3u8?channel-id=ystenlive
 #EXTINF:-1,CCTV-7军事HD
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny0wKnqbGkjZodZal1IiLBKR1ZeoFgHeni5wOoJ8kZsQKg%3D%3D%3A20180910185901%2C60D21CD359DA%2C124.129.96.17%2C20180910185901%2C10000100000000050000000002172002%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
 #EXTINF:-1 ,CCTV8电视剧HD
 http://111.11.121.184:6610/030000001001/cctv-8/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 ,CCTV8电视剧
+#EXTINF:-1 ,CCTV8电视剧sd
 http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv8/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV9纪录片sd
 http://111.11.121.184:6610/030000001001/cctv-news/1.m3u8?channel-id=ystenlive
@@ -45,10 +51,16 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/index.m3u8?servicet
 http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
 #EXTINF:-1 ,CCTV13新闻HD
 http://111.11.121.184:6610/030000001001/cctv-13/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV13","CCTV13"
+http://223.110.230.17:6610/gitv/live1/G_CCTV-13-CQ/G_CCTV-13-CQ/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV13","CCTV13"
+http://223.110.254.137:6610/cntv/live1/cctv-13/cctv-13.m3u8
 #EXTINF:-1 ,CCTV14少儿SD
 http://111.11.121.184:6610/030000001001/cctv-14/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV14HD少儿
 http://39.134.19.18/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1,CCTV-综艺娱乐sd
+https://p4.weizan.cn/1228393605/270303707572166290/live.m3u8
 #EXTINF:-1 ,CCTV15音乐HD
 http://111.11.121.184:6610/030000001001/cctv-15/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV16HD奥林匹克
@@ -59,10 +71,11 @@ http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K 超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K HDR
+#EXTINF:-1,CCTV-4K UHD  HDR
 http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-娱乐" tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/CCTV-%E7%BB%BC%E8%89%BA%E5%A8%B1%E4%B9%90.png" group-title="央视",CCTV-综艺娱乐
-https://p4.weizan.cn/1228393605/270303707572166290/live.m3u8
+#EXTINF:-1 ,CCTV-8K冬奥专题
+http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
+
 #EXTINF:-1 ,+++++++++++++北京源++++++++++++++++++
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="[高清]央视", CCTV-1[高清]
@@ -114,6 +127,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="中国央视", CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="清华大学电视台","清华大学电视台"
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 ,CGTN 英语
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 ,CGTN 阿语عربية
@@ -170,7 +185,7 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index
 
 #EXTINF:-1 tvg-id="jiangsu" tvg-logo="jiangsu.png",江苏卫视
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
-#EXTINF:-1, 北京卫视[高清]
+#EXTINF:-1, 北京卫视HD
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKdrA6O5TqC3oQgciLHCN+f7jdqT/Yq9bJ5ojBI5xjj1XA==,,END
 #EXTINF:-1 group-title="卫视",河北卫视HD
 http://ott.js.chinamobile.com/PLTV/4/224/3221228106/index.m3u8
@@ -191,8 +206,6 @@ http://39.134.65.179/PLTV/88888888/224/3221225888/1.m3u8
 
 #EXTINF:-1 group-title="卫视",厦门卫视HD
 http://223.110.245.158/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
-#EXTINF:-1 group-title="卫视",山西卫视
-http://39.135.140.227:6610/PLTV/88888888/224/3221225549/2/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 group-title="卫视",宁夏卫视
 http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?
@@ -223,11 +236,11 @@ http://pull2.ssws.tv/live/SswsTV20210803.m3u8
 http://ott.js.chinamobile.com/PLTV/4/224/3221227002/index.m3u8
 #EXTINF:-1 ,阿牛财经Aniu TV
 http://cclive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 ,山东齐鲁 高清
+#EXTINF:-1 ,山东齐鲁 SD
 https://livealone302.iqilu.com/iqilu/qlpd.m3u8
-#EXTINF:-1 ,山东体育 高清
+#EXTINF:-1 ,山东体育 SD
 https://livealone302.iqilu.com/iqilu/typd.m3u8
-#EXTINF:-1 ,山东生活 高清
+#EXTINF:-1 ,山东生活 SD
 https://livealone302.iqilu.com/iqilu/shpd.m3u8
 
 #EXTINF:-1 ,湖南卫视高清
