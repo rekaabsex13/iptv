@@ -4,3 +4,5 @@
 ![https://github.com/rekaabsex13/iptv/edit/main/README.md]
 # Android推荐IPTV pro
 ![https://github.com/rekaabsex13/iptv/edit/main/README.md]
+# PC端整理工具
+![https://github.com/rekaabsex13/iptv/edit/main/README.md]
