@@ -21,5 +21,7 @@ https://cloud.189.cn/t/JviEvyJBbM7n
 https://raw.githubusercontent.com/rekaabsex13/iptv/main/Perfect%20Player_1.5.9.apk
 
 https://cloud.189.cn/t/MJj2yqzaiYRj
+### 全平台播放器vlc
+https://www.videolan.org/
 ### PC端整理工具
 https://github.com/rekaabsex13/iptv/blob/main/IPTV%20Checker%202.5%E6%B1%89%E5%8C%96%E7%89%88.exe
