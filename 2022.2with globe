@@ -315,7 +315,18 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 ,康巴卫视
 http://scgctvshow.sctv.com/sdlive/kangba/1.m3u8
-
+#EXTINF:-1 group-title="网络",精彩体育
+http://39.134.19.135/PLTV/88888888/224/3221225809/1.m3u8
+#EXTINF:-1 group-title="网络",精彩综艺
+http://39.134.19.135/PLTV/88888888/224/3221225807/1.m3u8
+#EXTINF:-1 group-title="网络",精彩电视剧
+http://39.134.19.135/PLTV/88888888/224/3221225813/1.m3u8
+#EXTINF:-1 group-title="网络",黑莓电竞
+http://39.135.138.58:18890/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 group-title="网络",黑莓动画
+http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="网络",黑莓电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBRICSEnglish.ru" tvg-country="INT" tvg-language="Russian;English" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",俄罗斯金砖国家电视台TV BRICS English (1080p)
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
@@ -3695,20 +3706,9 @@ http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 http://api.idianshijia.com/gslb/live?stream_id=lsloop_dongwu&type=.m3u8
 #EXTINF:-1 group-title="网络",喜剧影院
 http://api.idianshijia.com/gslb/live?stream_id=lsloop_xiju&type=.m3u8
-#EXTINF:-1 group-title="网络",纯享4K
+#EXTINF:-1 group-title="江苏",纯享4K
 http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
-#EXTINF:-1 group-title="网络",精彩体育
-http://39.134.19.135/PLTV/88888888/224/3221225809/1.m3u8
-#EXTINF:-1 group-title="网络",精彩综艺
-http://39.134.19.135/PLTV/88888888/224/3221225807/1.m3u8
-#EXTINF:-1 group-title="网络",精彩电视剧
-http://39.134.19.135/PLTV/88888888/224/3221225813/1.m3u8
-#EXTINF:-1 group-title="网络",黑莓电竞
-http://39.135.138.58:18890/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 group-title="网络",黑莓动画
-http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="网络",黑莓电影
-http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
+
 #EXTINF:-1 group-title="网络",爱奇艺宝宝巴士
 http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=08b3f8f3a31f12001f96a0f53163b0596
 #EXTINF:-1 group-title="网络",经典电影
