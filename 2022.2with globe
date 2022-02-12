@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1综合SD
 http://111.11.121.184:6610/030000001001/hdcctv01/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏高码8m-CCTV-","江苏8m-CCTV1"
+#EXTINF:-1,江苏高码8mCCTV1
 http://223.110.244.212:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
 #EXTINF:-1 ,CCTV-1HD综合
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1A5gXy7m59YoE1AMvcRYl8Pvf6NHAGt8pY%2F1XkpmVDXg%3D%3D%3A20180910182102%2C60D21CD359DA%2C124.129.96.17%2C20180910182102%2C10000100000000050000000002171815%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
@@ -9,19 +9,23 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicet
 http://111.11.121.184:6610/030000001001/cctv-2/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV2财经HD
 http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
-#EXTINF:-1 ,CCTV3综艺SD
-http://111.11.121.184:6610/030000001001/cctv-3/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV3综艺HD
+http://111.11.121.184:6610/030000001001/cctv-3/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV3综艺SD
 http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv3/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV4中文国际SD
 http://111.11.121.184:6610/030000001001/cctv-4/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV-4","CCTV-4hd"
+#EXTINF:-1,CCTV-4中文国际hd
 http://39.134.18.82/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226191/index.m3u8
-#EXTINF:-1,CCTV-5 体育
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV6","CCTV6电影"
+#EXTINF:-1,CCTV-5 体育hd
+http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
+#EXTINF:-1,CCTV-5 体育sd
+http://117.148.179.142/PLTV/88888888/224/3221232440/index.m3u8 
+#EXTINF:-1,CCTV-5+体育赛事
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny3EAqj2bGzpUW6eHup%2FdHL4x8PpSxemwYTez3Gx7GrEpg%3D%3D%3A20180910184822%2C60D21CD359DA%2C124.129.96.17%2C20180910184822%2C10000100000000050000000002171713%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV6",CCTV6电影
 http://117.148.179.165/PLTV/88888888/224/3221231724/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV6","CCTV6电影"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV6",CCTV6电影
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231724/index.m3u8
 #EXTINF:-1 ,CCTV7军事SD
 http://111.11.121.184:6610/030000001001/cctv-7/1.m3u8?channel-id=ystenlive
@@ -33,8 +37,6 @@ http://111.11.121.184:6610/030000001001/cctv-8/1.m3u8?channel-id=ystenlive
 http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv8/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV9纪录片sd
 http://111.11.121.184:6610/030000001001/cctv-news/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 ,CCTV9记录HD
-http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 #EXTINF:-1 ,CCTV10科教SD
 http://111.11.121.184:6610/030000001001/cctv-10/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV10科教HD
@@ -49,29 +51,27 @@ http://111.11.121.184:6610/030000001001/cctv-12/1.m3u8?channel-id=ystenlive
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny0jVHlZn4ifGkFfWu%2Fcv10tY0KdrL2TBZvvvXEjK5i1ug%3D%3D%3A20180910190044%2C60D21CD359DA%2C124.129.96.17%2C20180910190044%2C10000100000000050000000002171826%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
 #EXTINF:-1,CCTV12社会与法
 http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
-#EXTINF:-1 ,CCTV13新闻HD
+#EXTINF:-1 ,CCTV13新闻SD
 http://111.11.121.184:6610/030000001001/cctv-13/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV13","CCTV13"
+#EXTINF:-1,CCTV13HD
 http://223.110.230.17:6610/gitv/live1/G_CCTV-13-CQ/G_CCTV-13-CQ/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV13","CCTV13"
+#EXTINF:-1,CCTV13HD
 http://223.110.254.137:6610/cntv/live1/cctv-13/cctv-13.m3u8
 #EXTINF:-1 ,CCTV14少儿SD
 http://111.11.121.184:6610/030000001001/cctv-14/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV14HD少儿
 http://39.134.19.18/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-#EXTINF:-1,CCTV-综艺娱乐sd
-https://p4.weizan.cn/1228393605/270303707572166290/live.m3u8
 #EXTINF:-1 ,CCTV15音乐HD
 http://111.11.121.184:6610/030000001001/cctv-15/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV16HD奥林匹克
 http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 ,CCTV16 奥林匹克4K 50FPS江苏联通
+#EXTINF:-1 ,CCTV16 4K 50FPS
 http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 ,CCTV17农业农村HD
 http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K 超高清
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1,CCTV-4K UHD  HDR
+#EXTINF:-1,CCTV-4K UHD HDR
 http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
 #EXTINF:-1 ,CCTV-8K冬奥专题
 http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
@@ -127,8 +127,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="中国央视", CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="清华大学电视台","清华大学电视台"
-http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 ,CGTN 英语
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 ,CGTN 阿语عربية
@@ -156,37 +154,67 @@ http://ott.js.chinamobile.com/PLTV/4/224/3221227657/index.m3u8
 #EXTINF:-1 ,------------------卫视---------------
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1,香港卫视
-https://al-pull2.hkatv.vip/live/hktv20210929.m3u8 
-#EXTINF:-1 ,葡萄牙语澳門Macau
+https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
+#EXTINF:-1,亞旅衛視 (720p) [Not 24/7]
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 ,澳門葡语
 http://61.244.22.5/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="AoMen1.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",澳门1 (720p) [Not 24/7]
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 tvg-id="AoMen2.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",澳门2 (720p) [Not 24/7]
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 tvg-id="AoMenTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",澳门体育 (720p)
+http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
 #EXTINF:-1 ,澳門澳視卫星
 http://61.244.22.5/ch3/ch3.live/chunklist_w30461384.m3u8
+#EXTINF:-1 tvg-id="MiGuShiPin.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",咪咕视频 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 ,凤凰网
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-id="FengHuangZhongWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",凤凰中文 (720p)
+http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 tvg-id="FengHuangZiXun.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",凤凰资讯 (720p)
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-id="FengHuangXiangGang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",凤凰香港 (720p)
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-id="DongNanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",东南卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-id="DongFangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/dongfang.jpg" group-title="",东方卫视 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-id="DongFangYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",东方影视 (1080p)
+http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="ShangHaiICSWaiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",上海 ICS外语 (1080p) [Not 24/7]
+http://112.25.48.68/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视",东方卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
 #EXTINF:-1 tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 #EXTINF:-1 group-title="卫视",天津卫视HD
 http://ott.js.chinamobile.com/PLTV/4/224/3221227741/index.m3u8
+#EXTINF:-1 tvg-id="TianJinWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/TJWS.png" group-title="",天津卫视 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 group-title="卫视",湖北卫视HD
 http://ott.js.chinamobile.com/PLTV/4/224/3221227665/index.m3u8
 #EXTINF:-1 tvg-id="anhui" tvg-logo="anhui.png",安徽卫视
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
 #EXTINF:-1 tvg-id="hubei" tvg-logo="hubei.png",湖北卫视
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
-
-#EXTINF:-1 tvg-id="hunan" tvg-logo="hunan.png",湖南卫视
+#EXTINF:-1,湖南卫视不卡 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-id="hunan" tvg-logo="hunan.png",湖南卫视卡
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
-
+#EXTINF:-1 tvg-id="ShenZhenWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1 tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
-
-
+#EXTINF:-1 tvg-id="HuBeiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png" group-title="",湖北卫视 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+#EXTINF:-1 tvg-id="JiShiRenWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",纪实人文 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="jiangsu" tvg-logo="jiangsu.png",江苏卫视
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
-#EXTINF:-1, 北京卫视HD
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKdrA6O5TqC3oQgciLHCN+f7jdqT/Yq9bJ5ojBI5xjj1XA==,,END
+#EXTINF:-1 tvg-id="BeiJingWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/bjbtv.jpg" group-title="",北京卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 #EXTINF:-1 group-title="卫视",河北卫视HD
 http://ott.js.chinamobile.com/PLTV/4/224/3221228106/index.m3u8
 #EXTINF:-1 group-title="卫视",辽宁卫视HD
@@ -199,11 +227,18 @@ http://ott.js.chinamobile.com/PLTV/4/224/3221227738/index.m3u8
 http://ott.js.chinamobile.com/PLTV/4/224/3221227729/index.m3u8
 #EXTINF:-1 group-title="卫视",四川卫视HD
 http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
-
-
+#EXTINF:-1 tvg-id="ChongQingWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/chongqing.jpg" group-title="",重庆卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-id="JinYingQiaTong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",金鹰卡通 (576p)
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+#EXTINF:-1 tvg-id="XinJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",新疆卫视 (576p)
+http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
 #EXTINF:-1 group-title="卫视",贵州卫视HD
 http://39.134.65.179/PLTV/88888888/224/3221225888/1.m3u8
-
+#EXTINF:-1 tvg-id="HeiLongWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",黑龙江卫视 (1080p)
+http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
+#EXTINF:-1 tvg-id="HeiLongJiang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",黑龙江卫视 (1080p)
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 #EXTINF:-1 group-title="卫视",厦门卫视HD
 http://223.110.245.158/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
 
@@ -379,18 +414,13 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:-1 ,CNBC Indonesia 1
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,马来西亚ABNsat  Christian 
-http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,西亚تقارير صوت AJYAL TV (1920×1080)
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,马来西亚EG | Al Horreya
-http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,马来西亚Al Kass Two
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby:iptvcat.com
-#EXTINF:-1 ,马来西亚PALESTINIAN TV (1920×1080)
-http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,------------------美国北美---------------
+#EXTINF:-1,卡塔尔半岛电视台英语Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,俄罗斯英语RT Documentary (1080p)
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+#EXTINF:-1,俄罗斯英语RT News (1080p) [Not 24/7]
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 https://livevideo01.abc10.com/hls/live/2014547/newsc.M3U8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/GVZuKc7.png",新教3ABN (720p)
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
@@ -469,9 +499,9 @@ https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/8vXRrRe.jpg",ABC 4 Seattle WA 西雅图 华盛顿州(KOMO-TV) (720p)
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1",ABC 5 Cleveland OH (WEWS-TV)克利夫兰市 俄亥俄州  (1080p)
+#EXTINF:-1,ABC 5 Cleveland OH克利夫兰市 俄亥俄州  (1080p)
 https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
-\#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/1jA3nKg.jpg",ABC 5 Des Moines IA 德梅因 爱荷华州 (WOI) (1080p)
+#EXTINF:-1,ABC 5 Des Moines IA 德梅因 爱荷华州 (WOI) (1080p)
 https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/yxEbZqn.jpg",ABC 5 Oklahoma City OK 俄克拉荷马城 (KOCO) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
@@ -950,7 +980,8 @@ https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3
 http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
 #EXTINF:-1 ,英国阿拉伯语BBC Arabic (540p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
-
+#EXTINF:-1,英国BBC World News 
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 ,英国对话阿拉伯语频道Alhiwar TV (1080p)
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 ,英国波斯语BBC Persian (720p)
@@ -1040,8 +1071,6 @@ https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
 #EXTINF:-1 ,阿拉圭ABC TV (720p)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1 ,西班牙Distrito TV
-https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 ,西班牙语基督教·Divine Vision
 http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
 #EXTINF:-1 ,洪都拉斯西班牙语Campus TV
@@ -1086,17 +1115,17 @@ http://mntv.livebox.co.in/musichls/live.m3u8
 http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
 #EXTINF:-1 ,印度泰米尔语·7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 group-title="News",India News (480p)
+#EXTINF:-1,India News (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png",India Today
+#EXTINF:-1,印度英语India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg",ABP Ananda (720p)
+#EXTINF:-1 group-title="News" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg",印度孟加拉语ABP Ananda (720p)
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1 group-title="News",ABP Asmita (720p)
+#EXTINF:-1 group-title="News",印度古吉拉特语ABP Asmita (720p)
 https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png",ABP Hindi (324p)
+#EXTINF:-1 group-title="News" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png",印度印地语ABP Hindi (324p)
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png",ABP Hindi (720p)
+#EXTINF:-1 group-title="News" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png",印度印地语ABP Hindi (720p)
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:-1 group-title="News",ABP Majha (720p)
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
@@ -1128,9 +1157,9 @@ https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?rebase
 https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 ,印度北阿坎德邦印地语News 18 Uttarakhand (360p)
 https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/rKTE8Qw.png",|叙利亚电视台今日叙利亚
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/rKTE8Qw.png",|叙利亚电视台今日叙利亚1080p
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="CNBCArabiya.us" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="Business",CNBC Arabiya (720p)
+#EXTINF:-1,CNBC Arabiya (720p)
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 #EXTINF:-1 group-title="Movies",波斯语Persiana Cinema (720p)
 http://51.210.199.15/hls/stream.m3u8
@@ -1158,14 +1187,8 @@ http://51.210.199.21/hls/stream.m3u8
 http://51.210.199.59/hls/stream.m3u8
 #EXTINF:-1 group-title="Sports",波斯语Persiana Varzesh (1080p)
 http://51.210.199.16/hls/stream.m3u8
-#EXTINF:-1 ,沙乌迪 迪拜Dubai  HAWAS TV (1280×720)
+#EXTINF:-1 ,沙特迪拜Dubai  HAWAS TV (1280×720)
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/SMk1hAy.png",Saudi TV 1 沙乌地阿拉伯
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png",Saudi TV 1 沙乌地阿拉伯
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/%D9%A1_1.png",库尔德KurdMax (1080p)
-https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:myStream_all/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/show_2.png",库尔德·KurdMax Show (1080p)
 https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:SHOW1_all/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,库尔德语Med Müzik TV (720p)
@@ -1178,11 +1201,11 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/playli
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 ,以色列希伯来Music 24 (576p)
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/lKl2wZH.png",Abu Dhabi Sports 1
+#EXTINF:-1 ,巴勒斯坦- 以色列频道阿拉伯语هلا تي في
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/lKl2wZH.png",阿布扎比体育Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,伊拉克阿拉伯新闻Al Sharqiya News (1080p)
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1419797891.m3u8?v=86757236
-#EXTINF:-1 ,阿富汗ArianaAfghanistanInternationalTV.af
+#EXTINF:-1 ,阿富汗国际频道ArianaAfghanistanInternationalTV.af
 http://iptv.arianaafgtv.com/ariana/playlist.m3u8
 #EXTINF:-1 ,法国阿语France 24 Arabic (1080p)
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
@@ -1210,7 +1233,7 @@ https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,黎巴嫩伊斯兰教Alhayat TV (720p)
 https://wowzaprod140-i.akamaihd.net/hls/live/750788/7552102e/playlist.m3u8
-#EXTINF:-1 ,黎巴嫩
+#EXTINF:-1 ,土耳其24小时频道1080p
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
 #EXTINF:-1 ,阿拉伯语马来西亚Al Aoula Laayoune TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
@@ -1224,6 +1247,10 @@ http://htvpalsat.mada.ps:8888/audeh/index.m3u8
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
 #EXTINF:-1 ,阿拉伯语英国伊斯兰教·什叶派Ahlulbayt TV
 http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+#EXTINF:-1 ,阿拉伯基督ABNsat  Christian 
+http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,伊拉克تقارير صوت AJYAL TV (1920×1080)
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,土耳其Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:-1 ,土耳其语Al-Zahra TV Turkic
@@ -1236,8 +1263,6 @@ http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 ,阿尔巴尼亚电视TV Opoja (720p)
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1 ,巴勒斯坦拉伯 - 以色列频道هلا تي في
-https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 #EXTINF:-1 ,土耳其语4 Turk Music [Not 24/7]
 http://51.210.199.30/hls/stream.m3u8
 #EXTINF:-1 ,山东地方台
@@ -3708,7 +3733,6 @@ http://api.idianshijia.com/gslb/live?stream_id=lsloop_dongwu&type=.m3u8
 http://api.idianshijia.com/gslb/live?stream_id=lsloop_xiju&type=.m3u8
 #EXTINF:-1 group-title="江苏",纯享4K
 http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
-
 #EXTINF:-1 group-title="网络",爱奇艺宝宝巴士
 http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=08b3f8f3a31f12001f96a0f53163b0596
 #EXTINF:-1 group-title="网络",经典电影
