@@ -21,6 +21,10 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226191/index
 http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
 #EXTINF:-1,CCTV-5 体育sd
 http://117.148.179.142/PLTV/88888888/224/3221232440/index.m3u8 
+#EXTINF:-1 ,CCTV5
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8 
+#EXTINF:-1 ,CCTV5+
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8 
 #EXTINF:-1,CCTV-5+体育赛事
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny3EAqj2bGzpUW6eHup%2FdHL4x8PpSxemwYTez3Gx7GrEpg%3D%3D%3A20180910184822%2C60D21CD359DA%2C124.129.96.17%2C20180910184822%2C10000100000000050000000002171713%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV6",CCTV6电影
@@ -37,8 +41,8 @@ http://111.11.121.184:6610/030000001001/cctv-8/1.m3u8?channel-id=ystenlive
 http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv8/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,CCTV9纪录片sd
 http://111.11.121.184:6610/030000001001/cctv-news/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 ,CCTV10科教SD
-http://111.11.121.184:6610/030000001001/cctv-10/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 ,CCTV10
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
 #EXTINF:-1 ,CCTV10科教HD
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
 #EXTINF:-1 ,CCTV11戏剧
@@ -177,14 +181,46 @@ http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-id="FengHuangXiangGang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",凤凰香港 (720p)
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-id="DongNanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",东南卫视 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="DongFangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/dongfang.jpg" group-title="",东方卫视 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="DongFangYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",东方影视 (1080p)
-http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="ShangHaiICSWaiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",上海 ICS外语 (1080p) [Not 24/7]
 http://112.25.48.68/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,------------------江西移动---------------
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
+#EXTINF:-1 ,CCTV1
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8  
+#EXTINF:-1 ,CCTV2
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8 
+#EXTINF:-1 ,CCTV3
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 ,CCTV4
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8 
+#EXTINF:-1 ,CCTV5+
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8 
+#EXTINF:-1 ,CCTV6
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8  
+#EXTINF:-1 ,CCTV7
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225644/index.m3u8 
+#EXTINF:-1 ,CCTV8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8 
+#EXTINF:-1 ,CCTV9
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8 
+#EXTINF:-1 ,CCTV10
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 ,CCTV11
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8 
+#EXTINF:-1 ,CCTV12
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 ,CCTV13
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8 
+#EXTINF:-1 ,CCTV14
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
+#EXTINF:-1 ,CCTV15
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8 
+#EXTINF:-1 ,CCTV17
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
 #EXTINF:-1 ,东南卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls 
 #EXTINF:-1 ,东方卫视
@@ -263,6 +299,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226203/index.m3u8 
 #EXTINF:-1 ,新疆兵团卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226200/index.m3u8
+#EXTINF:-1 ,------------------其他源---------------
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 group-title="卫视",东方卫视HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
 #EXTINF:-1 tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视
@@ -299,8 +337,6 @@ http://ott.js.chinamobile.com/PLTV/4/224/3221227676/index.m3u8
 http://ott.js.chinamobile.com/PLTV/4/224/3221227670/index.m3u8
 #EXTINF:-1 group-title="卫视",江西卫视HD
 http://ott.js.chinamobile.com/PLTV/4/224/3221227738/index.m3u8
-#EXTINF:-1 group-title="卫视",重庆卫视HD
-http://ott.js.chinamobile.com/PLTV/4/224/3221227729/index.m3u8
 #EXTINF:-1 group-title="卫视",四川卫视HD
 http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
 #EXTINF:-1 tvg-id="ChongQingWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/chongqing.jpg" group-title="",重庆卫视 (1080p)
@@ -411,6 +447,8 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225653/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 group-title="网络",黑莓电影
 http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
+#EXTINF:-1 ,------------------亚洲---------------
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 ,日本NTV NEWS24
 https://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 ,日本英语NHK World Japan (1080p)
@@ -454,7 +492,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:-1 ,CNBC Indonesia 1
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,------------------美国北美---------------
+
 #EXTINF:-1 tvg-id="TVBRICSEnglish.ru" tvg-country="INT" tvg-language="Russian;English" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",俄罗斯金砖国家电视台TV BRICS English (1080p)
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1,卡塔尔半岛电视台英语Al Jazeera English (1080p)
@@ -463,7 +501,8 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 #EXTINF:-1,俄罗斯英语RT News (1080p) [Not 24/7]
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
-https://livevideo01.abc10.com/hls/live/2014547/newsc.M3U8
+#EXTINF:-1 ,------------------北美---------------
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/GVZuKc7.png",新教3ABN (720p)
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/eOvzf3d.png",新教3ABN Kids (720p)
@@ -678,8 +717,6 @@ https://wowzaprod231-i.akamaihd.net/hls/live/1013830/177d227e/playlist.m3u8
 
 #EXTINF:-1 ,加拿大旁遮普BBC Toronto Gaunda Punjab
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/kvdqP3H.jpg",爱狗人士Fido TV (1080p)
-https://fidotv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/5X5Z5eg.png",纪录片Docurama (1080p)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/jCaWSFK.png",闹鬼电视Haunt TV (1080p)
