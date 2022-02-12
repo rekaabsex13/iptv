@@ -277,10 +277,8 @@ http://ott.js.chinamobile.com/PLTV/4/224/3221227665/index.m3u8
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
 #EXTINF:-1 tvg-id="hubei" tvg-logo="hubei.png",湖北卫视
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
-#EXTINF:-1,湖南卫视不卡 (1080p)
+#EXTINF:-1,湖南卫视 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
-#EXTINF:-1 tvg-id="hunan" tvg-logo="hunan.png",湖南卫视卡
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 #EXTINF:-1 tvg-id="ShenZhenWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",深圳卫视 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1 tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
@@ -307,8 +305,7 @@ http://ott.js.chinamobile.com/PLTV/4/224/3221227729/index.m3u8
 http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
 #EXTINF:-1 tvg-id="ChongQingWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/chongqing.jpg" group-title="",重庆卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
-#EXTINF:-1 tvg-id="JinYingQiaTong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",金鹰卡通 (576p)
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+
 #EXTINF:-1 tvg-id="XinJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",新疆卫视 (576p)
 http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
 #EXTINF:-1 group-title="卫视",贵州卫视HD
@@ -317,28 +314,13 @@ http://39.134.65.179/PLTV/88888888/224/3221225888/1.m3u8
 http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
 #EXTINF:-1 tvg-id="HeiLongJiang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",黑龙江卫视 (1080p)
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
-#EXTINF:-1 group-title="卫视",厦门卫视HD
+#EXTINF:-1 group-title="卫视",厦门卫视sd
 http://223.110.245.158/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
-
-#EXTINF:-1 group-title="卫视",宁夏卫视
+#EXTINF:-1 group-title="卫视",宁夏卫视hd
 http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?
 #EXTINF:-1 tvg-id="yanbian" tvg-logo="yanbian.png",延边卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv
 
-#EXTINF:-1 tvg-id="ningxia" tvg-logo="ningxia.png",宁夏卫视
-http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv
-
-#EXTINF:-1 tvg-id="xizang" tvg-logo="xizang.png",西藏卫视
-http://183.207.248.71:80/cntv/live1/n-xizangstv/n-xizangstv
-
-#EXTINF:-1 tvg-id="gansu" tvg-logo="gansu.png",甘肃卫视
-http://183.207.248.71:80/cntv/live1/n-gansustv/n-gansustv
-#EXTINF:-1 tvg-id="neimenggu" tvg-logo="neimenggu.png",内蒙古卫视
-http://183.207.248.71:80/cntv/live1/n-neimenggustv/n-neimenggustv
-#EXTINF:-1 tvg-id="qinghai" tvg-logo="qinghai.png",青海卫视
-http://183.207.248.71:80/cntv/live1/n-qinghaistv/n-qinghaistv
-#EXTINF:-1 tvg-id="xinjiang" tvg-logo="xinjiang.png",新疆卫视
-http://183.207.248.71:80/cntv/live1/n-xjtv1/n-xjtv1
 #EXTINF:-1 group-title="卫视",三沙卫视
 http://pull2.ssws.tv/live/SswsTV20210803.m3u8
 #EXTINF:-1 group-title="卫视",延边卫视
@@ -351,7 +333,6 @@ https://livealone302.iqilu.com/iqilu/qlpd.m3u8
 https://livealone302.iqilu.com/iqilu/typd.m3u8
 #EXTINF:-1 ,山东生活 SD
 https://livealone302.iqilu.com/iqilu/shpd.m3u8
-
 #EXTINF:-1 ,湖南卫视高清
 http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
 #EXTINF:-1 ,湖北卫视高清
@@ -372,7 +353,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225654/index.m3u8
 #EXTINF:-1 ,深圳卫视高清
 http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
-
 #EXTINF:-1 ,安徽卫视高清
 http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
 #EXTINF:-1 ,安徽卫视高清
@@ -395,35 +375,30 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
 #EXTINF:-1 ,天津卫视高清
 http://39.135.138.60:18890/PLTV/88888910/224/3221225698/index.m3u8
-
 #EXTINF:-1 ,辽宁卫视高清
 http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8
 #EXTINF:-1 ,辽宁卫视高清
 http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
-
 #EXTINF:-1 ,青海卫视高清
 http://live.geermurmt.com/qhws/sd/live.m3u8
+#EXTINF:-1 ,金鹰卡通 (576p)
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+#EXTINF:-1 ,卡酷少儿
 http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
-#EXTINF:-1 ,青海卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225727/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225726/index.m3u8
-#EXTINF:-1 ,山西卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225730/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
-#EXTINF:-1 ,旅游卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
-#EXTINF:-1 ,西藏卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 ,康巴卫视
 http://scgctvshow.sctv.com/sdlive/kangba/1.m3u8
+#EXTINF:-1 group-title="UHD节目",欢笑剧场4K
+http://223.110.240.226:6610/cntv/live1/HD-15M-2160P-jshuanxiaojc/HD-15M-2160P-jshuanxiaojc
+#EXTINF:-1 group-title="UHD节目",北京冬奥纪实4K
+http://223.110.240.226:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
+#EXTINF:-1 group-title="UHD节目",上视纪实人文4K
+http://223.110.240.226:6610/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
+#EXTINF:-1 group-title="UHD节目",咪咕奥运1 4K
+http://223.110.240.226:6610/cntv/live1/HD-8000k-1080P-miguaoyun1/HD-8000k-1080P-miguaoyun1
+#EXTINF:-1 group-title="UHD节目",咪咕奥运2 4K
+http://223.110.240.226:6610/cntv/live1/HD-8000k-1080P-miguaoyun2/HD-8000k-1080P-miguaoyun2
+#EXTINF:-1 group-title="UHD节目",4K电影
+http://39.134.71.75/ott.js.chinamobile.com/TVOD/3//224/3221227896/index.m3u8
 #EXTINF:-1 group-title="网络",精彩体育
 http://39.134.19.135/PLTV/88888888/224/3221225809/1.m3u8
 #EXTINF:-1 group-title="网络",精彩综艺
@@ -436,19 +411,10 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225653/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 group-title="网络",黑莓电影
 http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
-
-#EXTINF:-1 tvg-id="TVBRICSEnglish.ru" tvg-country="INT" tvg-language="Russian;English" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",俄罗斯金砖国家电视台TV BRICS English (1080p)
-https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
-
-#EXTINF:-1,テレビ東京
-http://203.162.235.41:16908
-#EXTINF:-1,富士电视フジテレビ
-http://203.162.235.41:16904
 #EXTINF:-1 ,日本NTV NEWS24
 https://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 ,日本英语NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
 #EXTINF:-1 ,日本NHK汉语字幕
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",AT-X日本动画
@@ -489,6 +455,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 ,CNBC Indonesia 1
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,------------------美国北美---------------
+#EXTINF:-1 tvg-id="TVBRICSEnglish.ru" tvg-country="INT" tvg-language="Russian;English" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",俄罗斯金砖国家电视台TV BRICS English (1080p)
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1,卡塔尔半岛电视台英语Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1,俄罗斯英语RT Documentary (1080p)
