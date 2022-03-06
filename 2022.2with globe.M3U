@@ -96,9 +96,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
@@ -391,8 +388,27 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225653/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 group-title="网络",黑莓电影
 http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
-#EXTINF:-1 ,------------------亚洲---------------
+#EXTINF:-1 ,------------------ingles国际台---------------
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",德国之声DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",法国24小时France 24 English (1080p)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="RTNews.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",俄罗斯RT News (1080p)
+https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+#EXTINF:-1 ,CGTN 英语
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,日本NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="News",ABC News (720p)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1,卡塔尔半岛电视台Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="AustraliaChannel.au" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="News",Australia Channel (720p)
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+
+
+
 #EXTINF:-1 ,日本NTV NEWS24
 https://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 ,日本英语NHK World Japan (1080p)
@@ -409,28 +425,26 @@ http://1.245.74.5:1935/live/tv/.m3u8
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1,韩国歌谣TV가요TV
 http://gayotv.net:1935/live/gayotv/playlist.m3u8
-#EXTINF:-1,韩国丽水MBC脱口秀여수MBC(MBC Yeosu)
-https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
 #EXTINF:-1,韩国选举广播선거방송
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 ,朝鲜中央频道
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 ,印度尼西亚BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 ,越南ktv
-http://210.245.20.94/hls/ktv1.m3u8
-#EXTINF:-1 ,越南PTP hd
-http://113.161.4.48:8080/phuyen/tv.m3u8
+#EXTINF:-1 tvg-id="" status="online",越南同奈省Đồng Nai 1 (360p) [Not 24/7]
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",越南同奈省Đồng Nai 2 (576p) [Not 24/7]
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 ,越南Cà Mau TV
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 ,越南坚江频道
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 ,越南越南
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 ,柬埔寨高棉语Fresh News TV (720p)
 http://167.99.65.12:1935/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 ,泰国ASTV News 1 (1080p)
 http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1,泰国Channel 8 (1080p) [Not 24/7]
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 #EXTINF:-1 ,新加坡CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?checkedby:iptvcat.com
 
@@ -793,19 +807,19 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
 #EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/i43l93j.png",Nature Live Waterfalls Live (Bumblebee) (1080p)
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/tFks0c6.jpg",美国Adult Swim Off The Air (1080p) （地理封锁）
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/tFks0c6.jpg",美国Adult Swim Off The Air (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-#EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/vLzXFTa.jpg",美国Adult Swim Rick and Morty (1080p) （地理封锁）
+#EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/vLzXFTa.jpg",美国Adult Swim Rick and Morty (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/bTWIjIw.jpg",美国Adult Swim Robot Chicken (1080p) （地理封锁）
+#EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/bTWIjIw.jpg",美国Adult Swim Robot Chicken (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-#EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/zIjbwSa.jpg",美国Adult Swim Samurai Jack (1080p) （地理封锁）
+#EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/zIjbwSa.jpg",美国Adult Swim Samurai Jack (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/tqHQy32.jpg",美国Adult Swim The Eric Andre Show (1080p) （地理封锁）
+#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/tqHQy32.jpg",美国Adult Swim The Eric Andre Show (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/QQc2rh8.jpg",美国Adult Swim The Venture Bros (1080p) （地理封锁）
+#EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/QQc2rh8.jpg",美国Adult Swim The Venture Bros (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/yVZAI7F.png",美国Adult Swim Your Pretty Face Is Going To Hell (1080p) （地理封锁）
+#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/yVZAI7F.png",美国Adult Swim Your Pretty Face Is Going To Hell (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 
 #EXTINF:-1 ,俄罗斯莫斯科教育Московский образовательный
@@ -856,8 +870,6 @@ http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 #EXTINF:-1 ,俄罗斯欧亚大频道Евразия (Орск)
 http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
-#EXTINF:-1 ,俄罗斯 канал
-http://95.67.106.10/hls/nta_ua_low/index.m3u8
 #EXTINF:-1 ,俄罗斯新闻РБК
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 ,俄罗斯战士tvРатник
@@ -902,12 +914,18 @@ http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 ,哈萨克斯坦Atameken Business
 http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Pershiynezalezhniy.ua" status="online",Перший незалежний 乌克兰政治(1080p)
+https://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1 tvg-id="PervyyDelovoy.ua" status="online",Первый Деловой 乌克兰第一笔业务
+http://pershij-dlovij.cdn-02.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1 ,乌克兰音乐М2 (1080p)
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 ,乌克兰音乐M1 (1080p)
 http://live.m2.tv/hls2/stream.m3u8
-#EXTINF:-1 ,乌克兰敖德萨Первый городской (Одесса)奥德萨
-http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Первый Городской 乌克兰第一城市敖德萨 (Одесса) (504p)
+https://cdn1.live-tv.od.ua:8083/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Z.ua" status="online",Z乌克兰扎波罗热 (Запорожье) (1080p)
+https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 ,乌克兰记者Репортер
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
 #EXTINF:-1 ,乌克兰利沃夫Перший Західний (Львов)
