@@ -51,6 +51,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
 #EXTINF:-1,CCTV-4K超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京",北京IPTV 4K超高清
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1,CCTV-8K冬奥专题
 http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
 #EXTINF:-1,CGTN 英语
@@ -69,16 +71,14 @@ https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 #EXTINF:-1,CCTV+ Channel 2
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
-#EXTINF:-1,CETV1
-http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
-#EXTINF:-1,CETV1
-http://117.148.179.149/PLTV/88888888/224/3221231552/index.m3u8
-#EXTINF:-1,CETV2
-http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
-#EXTINF:-1,CETV3
-http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
-#EXTINF:-1,CETV4
-http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
+#EXTINF:-1,中国教育CETV1
+http://txycsbl.centv.cn/zb/0104cetv1.m3u8
+#EXTINF:-1,中国教育CETV2
+http://txycsbl.centv.cn/zb/0104cetv2.m3u8
+#EXTINF:-1,中国教育CETV3
+http://txycsbl.centv.cn/zb/0104cetv3.m3u8
+#EXTINF:-1,中国教育CETV4
+http://txycsbl.centv.cn/zb/0104cetv4.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="[高清]央视", CCTV-1[高清]
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1A5gXy7m59YoE1AMvcRYl8Pvf6NHAGt8pY%2F1XkpmVDXg%3D%3D%3A20180910182102%2C60D21CD359DA%2C124.129.96.17%2C20180910182102%2C10000100000000050000000002171815%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="[高清]央视", CCTV-2[高清]
@@ -111,7 +111,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicet
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND&RTS=1601794352&from=6&popid=6&hms_devid=3661&prioritypopid=6&vqe=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京", 北京IPTV淘电影[高清]
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京", 北京IPTV 4K超高清[高清]
+
 #EXTINF:-1 tvg-id="6241" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="中国央视", CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="中国央视", CHC家庭电影
@@ -126,7 +126,7 @@ http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 #EXTINF:-1,澳门体育 (720p)
 http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
-#EXTINF:-1,凤凰网
+#EXTINF:-1,凤凰网香港
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1,北京卫视
 http://39.135.138.58:18890/PLTV/88888910/224/3221225673/index.m3u8
@@ -145,7 +145,13 @@ http://58.20.156.136:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1,辽宁卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225735/index.m3u8
 #EXTINF:-1,山东卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+https://livealone302.iqilu.com/iqilu/sdtv.m3u8
+#EXTINF:-1,山东齐鲁 
+https://livealone302.iqilu.com/iqilu/qlpd.m3u8
+#EXTINF:-1,山东体育 
+https://livealone302.iqilu.com/iqilu/typd.m3u8
+#EXTINF:-1,山东生活 
+https://livealone302.iqilu.com/iqilu/shpd.m3u8
 #EXTINF:-1,安徽卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
 #EXTINF:-1,安徽卫视
@@ -238,21 +244,31 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225653/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1,黑莓电影
 http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
-#EXTINF:-1,Blue 美剧频道
-http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
 #EXTINF:-1,德国之声DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1,法国24小时France 24 English (1080p)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1,俄罗斯RT News (1080p)
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+#EXTINF:-1,美国FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,新加坡CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,美国NBC News Now (1080p)
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1,美国ABC News (720p)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1,美国Newsmax (1080p)
+https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
+#EXTINF:-1,美国CNN USA (720p)
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" status="online",Fox Weather (720p)
+https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1,CGTN 英语
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,日本NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1,ABC News (720p)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1,Al Jazeera English
+#EXTINF:-1,卡塔尔半岛电视台Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1,Australia Channel (720p)
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
@@ -296,14 +312,11 @@ http://167.99.65.12:1935/live/ngrp:myStream_all/playlist.m3u8
 http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1,泰国Channel 8 (1080p) [Not 24/7]
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-1,新加坡CNA HD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1,CNBC Indonesia 1
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,俄罗斯金砖国家电视台TV BRICS English (1080p)
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
-#EXTINF:-1,卡塔尔半岛电视台英语Al Jazeera English (1080p)
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1,新教3ABN (720p)
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
 #EXTINF:-1,新教3ABN Kids (720p)
