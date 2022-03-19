@@ -603,8 +603,6 @@ http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1,Перший незалежний 乌克兰政治(1080p)
 https://app.live.112.events/hls-ua/112hd_mid/index.m3u8
-#EXTINF:-1,Первый Деловой 乌克兰第一笔业务
-http://pershij-dlovij.cdn-02.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1,Первый Городской 乌克兰第一城市敖德萨 (Одесса) (504p)
 https://cdn1.live-tv.od.ua:8083/1tvod/1tvod-abr/playlist.m3u8
 #EXTINF:-1,Z乌克兰扎波罗热 (Запорожье) (1080p)
@@ -613,10 +611,6 @@ https://stream.ztv.zp.ua/hls/live.m3u8
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
 #EXTINF:-1,乌克兰利沃夫Перший Західний (Львов)
 http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1,乌克兰Сварожичи
-http://80.91.177.102:1935/live/live1/playlist.m3u8
-#EXTINF:-1,乌克兰健康频道Здоровье (Одесса)奥德萨
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1,乌克兰第三数字Третий Цифровой
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
 #EXTINF:-1,乌克兰普拉夫图特ПравдаТУТ
