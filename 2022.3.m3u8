@@ -46,9 +46,9 @@ http://117.148.179.157/PLTV/88888888/224/3221233442/index.m3u8
 #EXTINF:-1,CCTV-17
 http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1,CNC英文
-http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
+https://source07.v.news.cn/live/CNC_EN/playlist.m3u8?wsSession=d5ddb894fefd66061b2465d9-164769856344042&wsIPSercert=2b492d29fc87f4ee5ff5f33d7f041f22&wsMonitor=0
 #EXTINF:-1,CNC中文
-http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
+https://source07.v.news.cn/live/CNC_CN/playlist.m3u8?wsSession=e74fcb105debf3bd5f91b0b1-164769863016716&wsIPSercert=2b492d29fc87f4ee5ff5f33d7f041f22&wsMonitor=0
 #EXTINF:-1,CCTV-4K超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京",北京IPTV 4K超高清
@@ -137,9 +137,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225742/index.m3u8
 #EXTINF:-1,深圳卫视
 http://39.135.138.58:18890/PLTV/88888910/224/3221225741/index.m3u8
 #EXTINF:-1,江西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
-#EXTINF:-1,江西卫视
-http://140.207.241.2:8080/live/program/live/jxwshd/4000000/d1.m3u8
+https://3748645904.cloudvdn.com/a.m3u8?domain=live.jxtvcn.com.cn&player=pfEAADlL5T-azd0W&secondToken=secondToken%3AVtvHA4TkoD02PsxnXzCB2CJaFms&source=pc&streamid=live-jxtv%3Alive-jxtv%2Ftv_jxtv1&t=164769910174344&token=60f39243928ebe9bc6060fbb6cea2f84&v3=1
 #EXTINF:-1,辽宁卫视
 http://58.20.156.136:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1,辽宁卫视
@@ -152,6 +150,8 @@ https://livealone302.iqilu.com/iqilu/qlpd.m3u8
 https://livealone302.iqilu.com/iqilu/typd.m3u8
 #EXTINF:-1,山东生活 
 https://livealone302.iqilu.com/iqilu/shpd.m3u8
+#EXTINF:-1,清华大学电视台 
+https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1,安徽卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
 #EXTINF:-1,安徽卫视
@@ -250,6 +250,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1,俄罗斯RT News (1080p)
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+#EXTINF:-1,俄罗斯RT Documentary (1080p) 
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1,美国FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,新加坡CNA HD
@@ -262,18 +264,22 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
 #EXTINF:-1,美国CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,阿三英语India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" status="online",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1,土耳其英语TRT World (720p)
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1,CGTN 英语
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,日本NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1,卡塔尔半岛电视台Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1,Australia Channel (720p)
+#EXTINF:-1,土澳Australia Channel (720p)
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:-1,电视购物QVC
-http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1,以色列As a Child (720p)
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
 #EXTINF:-1,Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1,Tokyo MX2
@@ -286,6 +292,8 @@ https://www.news24.jp/livestream/index.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1,AT-X日本动画
 https://sub2.neetball.net/live/neet.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,日本电视购物QVC
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1,韩国英语Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,韩国 대전방송SBS 大田广播
@@ -853,8 +861,12 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1,阿拉伯语沙特儿童生活Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1,阿拉伯语动画片Cartoon Network Arabic (1080p)
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1,黎巴嫩伊斯兰教Alhayat TV (720p)
 https://wowzaprod140-i.akamaihd.net/hls/live/750788/7552102e/playlist.m3u8
+#EXTINF:-1,阿拉伯以色列巴勒斯坦阿拉伯人口Hala TV (1080p) [Not 24/7]
+https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:-1,土耳其24小时频道1080p
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
 #EXTINF:-1,阿拉伯语马来西亚Al Aoula Laayoune TV
