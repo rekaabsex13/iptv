@@ -148,8 +148,6 @@ http://iptv.tvfix.org/hls/jade.m3u8
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1,香港无线新闻台高清
 http://iptv.tvfix.org/hls/inews2.m3u8
-#EXTINF:-1,香港viutv高清
-http://iptv.tvfix.org/hls/viutv6.m3u8
 #EXTINF:-1,香港美亚电影高清
 http://iptv.tvfix.org/hls/mydy.m3u8
 #EXTINF:-1,山东卫视
