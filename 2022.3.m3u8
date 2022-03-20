@@ -316,9 +316,11 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1,美国Newsmax (1080p)
 https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
-#EXTINF:-1,美国CNN USA (720p)
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1,英国bbbc
+#EXTINF:-1,美国CNN 
+http://iptv.tvfix.org/hls/cnn.m3u8
+#EXTINF:-1,俄罗斯poccnr24俄语
+http://iptv.tvfix.org/hls/russia24.m3u8
+#EXTINF:-1,英国bbc
 http://iptv.tvfix.org/hls/bbcnews.m3u8
 #EXTINF:-1,阿三英语India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
