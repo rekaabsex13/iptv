@@ -9,6 +9,8 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
 http://117.148.179.157/PLTV/88888888/224/3221231682/index.m3u8
 #EXTINF:-1,CCTV-4
 http://117.148.179.157/PLTV/88888888/224/3221231726/index.m3u8
+#EXTINF:-1,cctv5
+http://iptv.tvfix.org/hls/cctv5hd.m3u8
 #EXTINF:-1,CCTV-5+
 http://117.148.179.157/PLTV/88888888/224/3221233107/index.m3u8
 #EXTINF:-1,CCTV-7
@@ -51,6 +53,18 @@ https://source07.v.news.cn/live/CNC_EN/playlist.m3u8?wsSession=d5ddb894fefd66061
 https://source07.v.news.cn/live/CNC_CN/playlist.m3u8?wsSession=e74fcb105debf3bd5f91b0b1-164769863016716&wsIPSercert=2b492d29fc87f4ee5ff5f33d7f041f22&wsMonitor=0
 #EXTINF:-1,CCTV-4K超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1,CCTV风云剧场
+http://iptv.tvfix.org/hls/cctvfyjchd.m3u8
+#EXTINF:-1,CCTV风云音乐
+http://iptv.tvfix.org/hls/cctvfyyyhd.m3u8
+#EXTINF:-1,CCTV世界地理
+http://iptv.tvfix.org/hls/cctvsjdlhd.m3u8
+#EXTINF:-1,CCTV风云足球
+http://iptv.tvfix.org/hls/cctvfyzqhd.m3u8
+#EXTINF:-1,CCTV怀旧剧场
+http://iptv.tvfix.org/hls/cctvhjjchd.m3u8
+#EXTINF:-1,CCTV央视台球
+http://iptv.tvfix.org/hls/cctvtqhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京",北京IPTV 4K超高清
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1,CCTV-8K冬奥专题
@@ -128,6 +142,58 @@ http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
 #EXTINF:-1,凤凰网香港
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1,香港翡翠台高清
+http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1,香港翡翠台粤语高清
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+#EXTINF:-1,香港无线新闻台高清
+http://iptv.tvfix.org/hls/inews2.m3u8
+#EXTINF:-1,香港viutv高清
+http://iptv.tvfix.org/hls/viutv6.m3u8
+#EXTINF:-1,香港美亚电影高清
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1,山东卫视
+https://livealone302.iqilu.com/iqilu/sdtv.m3u8
+#EXTINF:-1,北京卫视高清
+http://iptv.tvfix.org/hls/btv1hd.m3u8
+#EXTINF:-1,江苏卫视高清
+http://iptv.tvfix.org/hls/jshd.m3u8
+#EXTINF:-1,山东卫视高清
+http://iptv.tvfix.org/hls/sdhd.m3u8
+#EXTINF:-1,东方卫视高清
+http://iptv.tvfix.org/hls/dfhd.m3u8
+#EXTINF:-1,深圳卫视高清
+http://iptv.tvfix.org/hls/szhd.m3u8
+#EXTINF:-1,湖北卫视高清
+http://iptv.tvfix.org/hls/hbhd.m3u8
+#EXTINF:-1,安徽卫视高清
+http://iptv.tvfix.org/hls/ahhd.m3u8
+#EXTINF:-1,东南卫视高清
+http://iptv.tvfix.org/hls/dnhd.m3u8
+#EXTINF:-1,湖南卫视高清
+http://iptv.tvfix.org/hls/hunanhd.m3u8
+#EXTINF:-1,江西卫视高清
+http://iptv.tvfix.org/hls/jxhd.m3u8
+#EXTINF:-1,浙江卫视高清
+http://iptv.tvfix.org/hls/zjhd.m3u8
+#EXTINF:-1,天津卫视高清
+http://iptv.tvfix.org/hls/tjhd.m3u8
+#EXTINF:-1,广西卫视高清
+http://iptv.tvfix.org/hls/gxhd.m3u8
+#EXTINF:-1,贵州卫视高清
+http://iptv.tvfix.org/hls/gzhd.m3u8
+#EXTINF:-1,海南卫视高清
+http://iptv.tvfix.org/hls/lyhd.m3u8
+#EXTINF:-1,上海外语高清
+http://iptv.tvfix.org/hls/shwypdhd.m3u8
+#EXTINF:-1,山东齐鲁 
+https://livealone302.iqilu.com/iqilu/qlpd.m3u8
+#EXTINF:-1,山东体育 
+https://livealone302.iqilu.com/iqilu/typd.m3u8
+#EXTINF:-1,山东生活 
+https://livealone302.iqilu.com/iqilu/shpd.m3u8
+#EXTINF:-1,清华大学电视台 
+https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1,北京卫视
 http://39.135.138.58:18890/PLTV/88888910/224/3221225673/index.m3u8
 #EXTINF:-1,广东卫视
@@ -142,26 +208,12 @@ https://3748645904.cloudvdn.com/a.m3u8?domain=live.jxtvcn.com.cn&player=pfEAADlL
 http://58.20.156.136:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1,辽宁卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225735/index.m3u8
-#EXTINF:-1,山东卫视
-https://livealone302.iqilu.com/iqilu/sdtv.m3u8
-#EXTINF:-1,山东齐鲁 
-https://livealone302.iqilu.com/iqilu/qlpd.m3u8
-#EXTINF:-1,山东体育 
-https://livealone302.iqilu.com/iqilu/typd.m3u8
-#EXTINF:-1,山东生活 
-https://livealone302.iqilu.com/iqilu/shpd.m3u8
-#EXTINF:-1,清华大学电视台 
-https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-#EXTINF:-1,安徽卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
 #EXTINF:-1,安徽卫视
 http://39.135.138.58:18890/PLTV/88888910/224/3221225691/index.m3u8
 #EXTINF:-1,东南卫视
 http://39.135.138.58:18890/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1,天津卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
-#EXTINF:-1,天津卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
 #EXTINF:-1,重庆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
 #EXTINF:-1,重庆卫视
@@ -194,10 +246,6 @@ http://117.148.179.164/PLTV/88888888/224/3221231600/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1,贵州卫视
 http://117.148.179.160/PLTV/88888888/224/3221231676/index.m3u8
-#EXTINF:-1,贵州卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
-#EXTINF:-1,海南卫视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
 #EXTINF:-1,海南卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/lyws/1300000/mnf.m3u8
 #EXTINF:-1,云南卫视
@@ -240,6 +288,14 @@ http://stream-shbu.bestvcdn.com:8080/live/program/live/btws/1300000/mnf.m3u8
 http://117.148.179.134/PLTV/88888888/224/3221229184/index.m3u8
 #EXTINF:-1,黑莓电竞
 http://39.135.138.58:18890/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1,哈哈炫动高清
+http://iptv.tvfix.org/hls/hhxdhd.m3u8
+#EXTINF:-1,金鹰卡通高清
+http://iptv.tvfix.org/hls/jykttv.m3u8
+#EXTINF:-1,优满卡通高清
+http://iptv.tvfix.org/hls/ymkttv.m3u8
+#EXTINF:-1,新动漫高清
+http://iptv.tvfix.org/hls/xdmtv.m3u8
 #EXTINF:-1,黑莓动画
 http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1,黑莓电影
@@ -264,6 +320,8 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
 #EXTINF:-1,美国CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,英国bbbc
+http://iptv.tvfix.org/hls/bbcnews.m3u8
 #EXTINF:-1,阿三英语India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" status="online",Fox Weather (720p)
@@ -302,8 +360,8 @@ http://1.245.74.5:1935/live/tv/.m3u8
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1,韩国选举广播선거방송
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-#EXTINF:-1,朝鲜中央频道
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1,朝鲜中央频道Korean Central Television 
+https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1,印度尼西亚BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1,越南同奈省Đồng Nai 1 (360p) [Not 24/7]
@@ -401,6 +459,10 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 https://livevideo01.kagstv.com/hls/live/2016283/newscasts/live.m3u8
 #EXTINF:-1,NBC 26 Green Bay WI 威斯康星州格林贝(WGBA) (720p)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/bKVNdeh.jpg" group-title="Education",NASA TV Media (720p)
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CH6VcTR.jpg" group-title="Education",NASA TV Public (720p)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1,燃料运动频道Fuel TV (1080p)
 https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,红牛运动Red Bull TV (1080p)
@@ -739,10 +801,20 @@ https://sofytv-samsungit.amagi.tv/playlist.m3u8
 https://sofytv-samsunges.amagi.tv/playlist.m3u8
 #EXTINF:-1,意大利Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-country="AT;BE;CH;DE;LI;LU" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",德语DW Deutsch (1080p) [Geo-blocked]
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:-1 tvg-id="DWDeutschPlus.de" tvg-country="AT;BE;CH;DE;LI;LU" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",德语DW Deutsch+ (1080p) [Geo-blocked]
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",英语DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",西语DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,CGTN西语
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,西班牙101 Tele Antequera (1080p)
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+#EXTINF:-1,西班牙阿兰语3/24 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
 #EXTINF:-1,阿拉圭ABC TV (720p)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1,西班牙语基督教·Divine Vision
