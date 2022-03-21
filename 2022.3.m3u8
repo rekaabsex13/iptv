@@ -140,8 +140,10 @@ http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 #EXTINF:-1,澳门体育 (720p)
 http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
-#EXTINF:-1,凤凰网香港
+#EXTINF:-1,凤凰咨询
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1,凤凰中文
+http://iptv.tvfix.org/hls/fhzw.m3u8
 #EXTINF:-1,香港翡翠台高清
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1,香港翡翠台粤语高清
@@ -153,7 +155,7 @@ http://iptv.tvfix.org/hls/mydy.m3u8
 #EXTINF:-1,山东卫视
 https://livealone302.iqilu.com/iqilu/sdtv.m3u8
 #EXTINF:-1,北京卫视高清
-http://iptv.tvfix.org/hls/btv1hd.m3u8
+http://iptv.tvfix.org/hls/brtv1hd.m3u8
 #EXTINF:-1,江苏卫视高清
 http://iptv.tvfix.org/hls/jshd.m3u8
 #EXTINF:-1,山东卫视高清
@@ -180,8 +182,16 @@ http://iptv.tvfix.org/hls/tjhd.m3u8
 http://iptv.tvfix.org/hls/gxhd.m3u8
 #EXTINF:-1,贵州卫视高清
 http://iptv.tvfix.org/hls/gzhd.m3u8
-#EXTINF:-1,海南卫视高清
-http://iptv.tvfix.org/hls/lyhd.m3u8
+#EXTINF:-1,黑龙江视高清
+http://iptv.tvfix.org/hls/hljhd.m3u8
+#EXTINF:-1,广东卫视高清
+http://iptv.tvfix.org/hls/gdhd.m3u8
+#EXTINF:-1,天津卫视高清
+http://iptv.tvfix.org/hls/tjhd.m3u8
+#EXTINF:-1,河南卫视高清
+http://iptv.tvfix.org/hls/hnhd.m3u8
+#EXTINF:-1,重庆卫视高清
+http://iptv.tvfix.org/hls/cqhd.m3u8
 #EXTINF:-1,上海外语高清
 http://iptv.tvfix.org/hls/shwypdhd.m3u8
 #EXTINF:-1,山东齐鲁 
