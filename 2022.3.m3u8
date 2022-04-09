@@ -9,8 +9,10 @@ http://117.148.179.157/PLTV/88888888/224/3221231682/index.m3u8
 http://117.148.179.157/PLTV/88888888/224/3221231726/index.m3u8
 #EXTINF:-1,cctv5
 http://iptv.tvfix.org/hls/cctv5hd.m3u8
-#EXTINF:-1,CCTV-5+
-http://117.148.179.157/PLTV/88888888/224/3221233107/index.m3u8
+#EXTINF:-1,CCTV5+体育赛事
+http://39.135.55.105:6610/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1
+#EXTINF:-1,CCTV6电影
+http://39.135.55.105:6610/PLTV/88888888/224/3221227137/index.m3u8?servicetype=1
 #EXTINF:-1,CCTV-7
 http://117.148.179.157/PLTV/88888888/224/3221231633/index.m3u8
 #EXTINF:-1,CCTV-7
@@ -43,14 +45,20 @@ http://117.148.179.157/PLTV/88888888/224/3221231693/index.m3u8
 http://117.148.179.157/PLTV/88888888/224/3221233409/index.m3u8
 #EXTINF:-1,CCTV-16 50FPS
 http://117.148.179.157/PLTV/88888888/224/3221233442/index.m3u8
-#EXTINF:-1,CCTV-17
-http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1,CCTV17农业农村
+http://39.135.55.105:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1
 #EXTINF:-1,CNC英文
 https://source07.v.news.cn/live/CNC_EN/playlist.m3u8?wsSession=d5ddb894fefd66061b2465d9-164769856344042&wsIPSercert=2b492d29fc87f4ee5ff5f33d7f041f22&wsMonitor=0
 #EXTINF:-1,CNC中文
 https://source07.v.news.cn/live/CNC_CN/playlist.m3u8?wsSession=e74fcb105debf3bd5f91b0b1-164769863016716&wsIPSercert=2b492d29fc87f4ee5ff5f33d7f041f22&wsMonitor=0
-#EXTINF:-1,CCTV-4K超高清
+#EXTINF:-1 group-title="央视",CCTV-4中文国际欧洲
+http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-4中文国际美洲
+http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-4K超高清1080
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1,CCTV4K-超高清 4k
+http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 #EXTINF:-1,CCTV风云剧场
 http://iptv.tvfix.org/hls/cctvfyjchd.m3u8
 #EXTINF:-1,CCTV风云音乐
@@ -123,7 +131,6 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicet
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND&RTS=1601794352&from=6&popid=6&hms_devid=3661&prioritypopid=6&vqe=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京", 北京IPTV淘电影[高清]
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-
 #EXTINF:-1 tvg-id="6241" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="中国央视", CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="中国央视", CHC家庭电影
@@ -143,7 +150,7 @@ https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1,凤凰中文
 http://iptv.tvfix.org/hls/fhzw.m3u8
 #EXTINF:-1,香港翡翠台高清
-http://iptv.tvfix.org/hls/jadehk.m3u8
+http://iptv.tvfix.org/hls/jadehk_a1.m3u8
 #EXTINF:-1,香港翡翠台粤语高清
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1,香港无线新闻台高清
